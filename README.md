@@ -1,7 +1,7 @@
 # MIAP-ZIM-Project
 
 * [Project-Description](https://github.com/hmr9162-droid/MIAP-ZIM-Project/blob/main/README.md#project-description)
-* [Why Zim](Why-Zim?)
+* [[Why Zim](https://github.com/hmr9162-droid/MIAP-ZIM-Project/blob/main/README.md#why-zim)
 * [Contributors](Contributors)
 * [Source Projects](Source-Projects)
 * [Zibliography](Zibliography)
