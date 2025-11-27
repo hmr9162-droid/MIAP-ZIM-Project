@@ -1,35 +1,36 @@
 # MIAP-ZIM-Project
 
-* [What?](#what-is-this?)
-* [Why?](#Why?)
-* [Who?](#Who?)
+* [Project Description](Project-Description)
+* [Why Zim](Why-Zim?)
+* [Contributors](Contributors)
+* [Source Projects](Source-Projects)
+* [Zibliography](Zibliography)
 
-
-## What is this?
+## Project Description
 
 Our project aims to hightlight the strengths and weaknesses of the zim container format, compared to .warc, the existing web archiving standard. By comparing key features, we may help inform users who have an interest in or need to archive a site as a zim file. 
 
 
-## Why?
+## Why Zim?
 
 By compiling a URL source into an online-accessible format, zim may be a useful tool for archivists with limited internet access or electricity (browsing drains power). Disaster planning for libraries and archives might include the preservation of certain online resources, like a Githib repositiory. The format is highly compressed and lossless, preserving quality without occupying a ton of disk space. The format enables fulltext search. A library of zim files in Kiwix (or other offline reader) 
 
 
-## Who?
+## Contributors
 
 We are Motion Image Archiving and Preservation (MIAP) students at NYU. During our studies, we became interested in the potential uses of zim for archivists and in promoting access to online tools. 
 
-Our Contributors:
-*Contributors*: 
-stp305-source (Jamie!) 
-(put Phoenyx's username here) (Phoenyx!)
-hmr9162-droid (Hayla!)    
+##Our Contributors:
 
-Last updated: 2025-12-30
+*stp305-source (Jamie!) 
+*(put Phoenyx's username here) (Phoenyx!)
+*hmr9162-droid (Hayla!)    
 
-### Contributing
+**Last updated: 2025-12-30
 
-To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) and add or modify a new block in `index.html`. Then [submit a pull request](https://github.com/amiaopensource/ffmprovisr/pulls) and the code will be reviewed and integrated. 
+## Contributing
+
+To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) and add or modify a new block in `index.html`. Then [submit a pull request](https://github.com/amiaopensource/       ffmprovisr/pulls) and the code will be reviewed and integrated. 
 
 
 ## Source Projects
