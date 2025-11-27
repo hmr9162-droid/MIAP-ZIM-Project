@@ -13,20 +13,18 @@ Our project aims to hightlight the strengths and weaknesses of the zim container
 
 ## Why Zim?
 
-By compiling a URL source into an online-accessible format, zim may be a useful tool for archivists with limited internet access or electricity (browsing drains power). Disaster planning for libraries and archives might include the preservation of certain online resources, like a Githib repositiory. The format is highly compressed and lossless, preserving quality without occupying a ton of disk space. The format enables fulltext search. A library of zim files in Kiwix (or other offline reader) 
+By compiling a URL source into an online-accessible format, zim may be a useful tool for archivists with limited internet access or electricity (browsing drains power). Disaster planning for libraries and archives might include the preservation of certain online resources, like a Githib repositiory. The format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, the format enables fulltext search. An extensive library of zim resources in Kiwix (or other offline reader) can function like a offline search engine. 
 
 
 ## Contributors
 
 We are Motion Image Archiving and Preservation (MIAP) students at NYU. During our studies, we became interested in the potential uses of zim for archivists and in promoting access to online tools. 
 
-##Our Contributors:
+# stp305-source (Jamie!) 
+# (put Phoenyx's username here) (Phoenyx!)
+# hmr9162-droid (Hayla!)    
 
-*stp305-source (Jamie!) 
-*(put Phoenyx's username here) (Phoenyx!)
-*hmr9162-droid (Hayla!)    
-
-**Last updated: 2025-12-30
+# Last updated: 2025-12-30
 
 ## Contributing
 
@@ -46,9 +44,11 @@ To contribute to this project directly clone this repository and create a new br
 
 ## Zibliography
 
-Below are some projects which utilized .zim to increase the accesibility of web content: 
+Below are some projects which utilize zim to increase the accesibility of web content: 
         
 Al-Khmisy, R., Hosman, L., & Nova, R. (2023). Curating an Offline Wikipedia for Schools in any Language: A Road Map. International Journal of Emerging Technologies in Learning (iJET), 18(21), 129–148. https://doi.org/10.3991/          ijet.v18i21.44313
+
+Below are some projects which describe important challenges or considerations for web archiving: 
 
 Berlin, J., Kelly, M., Nelson, M. L., & Weigle, M. C. (2023). To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages. ACM Trans. Web, 17(4). https://doi.org/10.1145/3589206
 
