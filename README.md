@@ -1,4 +1,5 @@
-# MIAP-ZIM-Project <img src="images/zim_file_white.png">
+<img src="images/zim_file_white.png" width="50">
+# MIAP-ZIM-Project 
 
 * [Project Description](https://github.com/hmr9162-droid/MIAP-ZIM-Project/blob/main/README.md#project-description)
 * [Why Zim?](https://github.com/hmr9162-droid/MIAP-ZIM-Project/blob/main/README.md#why-zim)
