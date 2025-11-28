@@ -10,7 +10,11 @@
 
 ## Project Description
 
-Our project aims to hightlight the strengths and weaknesses of the `zim` container format, compared to `warc`, the existing web archiving standard. By comparing key features, we may help inform archivists who have an interest in utilizing the `zim` format for their projects.
++ Our project aims to hightlight the strengths and weaknesses of the `zim` container format, compared to `warc`, the existing web archiving standard. 
+
++ We've run crawls on [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/) an FFmpeg resource, and archived the site as both ffmprovisr.zim and ffmprovisr.warc.
+
++ By comparing key features, we may help inform archivists who have an interest in utilizing the `zim` format for their projects. 
 
 
 ## Why Zim?
@@ -40,7 +44,9 @@ We are Motion Image Archiving and Preservation (MIAP) students at NYU. During ou
 
 ### Contributing
 
-You are encourgaged to experiment and contribute zim or warc files to this repository of online archiving resources. Bug fixes and or other additions are also welcome. To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) and upload your file to `docs` or modify the `index.html`. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
+You are encouraged to experiment and contribute zim or warc files to this repository of archiving resources! 
+
+Bug fixes and or other additions are also welcome. To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) and upload your file to `docs` or modify the `index.html`. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
 
 
 ## Source Projects
