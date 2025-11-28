@@ -1,4 +1,5 @@
-<img src="images/zim_file_white.png" width="50">
+<img src="images/zim_file_white.png" width="100">
+
 # MIAP-ZIM-Project 
 
 * [Project Description](https://github.com/hmr9162-droid/MIAP-ZIM-Project/blob/main/README.md#project-description)
