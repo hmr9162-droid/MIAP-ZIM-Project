@@ -15,7 +15,14 @@ Our project aims to hightlight the strengths and weaknesses of the `zim` contain
 
 ## Why Zim?
 
-By compiling a URL source into an online-accessible format, `zim` may be a useful tool for archivists with limited internet access or electricity (browsing drains power). Disaster planning for libraries and archives might include the preservation of online resources, like a Github repositiory. 
+By compiling a URL source into an online-accessible format, `zim` may be a useful tool for archivists and librarians in situations with:
+
+ ⚡️ limited electricity (online browsing drains power)
+ 🛜 little or no internet access  
+ 🔥 disaster-related challenges 
+
+ 
+ for libraries and archives might include the preservation of online resources, like a Github repositiory. 
 
 The format is highly compressed and lossless, preserving quality without occupying a ton of disk space. 
 
