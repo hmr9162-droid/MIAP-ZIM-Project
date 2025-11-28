@@ -26,14 +26,12 @@ Additionally, `zim` enables fulltext search. An extensive library of `zim` resou
 
 ### Who are we?
 
-We are Motion Image Archiving and Preservation (MIAP) students at NYU. During our studies, we became interested in the potential uses of `zim` for archivists and in promoting access to online tools. 
-
 * stp305-source (Jamie!) 
 * (put Phoenyx's username here) (Phoenyx!)
-* hmr9162-droid (Hayla!)    
+* hmr9162-droid (Hayla!)  
 
-
-Last updated: 2025-12-30
+We are Motion Image Archiving and Preservation (MIAP) students at NYU. During our studies, we became interested in the potential uses of `zim` for archivists and in promoting access to online tools. 
+  
 
 ### Contributing
 
