@@ -54,12 +54,8 @@ You are encourgaged to experiment and contribute zim or warc files to this repos
 If you contribute a zim of an archiving resource to our repository, we will link to the original webpage here!
 
 ## Zibliography
-
-Below are some projects which utilize zim to increase the accesibility of web content: 
-        
+       
 Al-Khmisy, R., Hosman, L., & Nova, R. (2023). Curating an Offline Wikipedia for Schools in any Language: A Road Map. International Journal of Emerging Technologies in Learning (iJET), 18(21), 129–148. https://doi.org/10.3991/ijet.v18i21.44313
-
-Below are some projects which describe important challenges or considerations for web archiving: 
 
 Berlin, J., Kelly, M., Nelson, M. L., & Weigle, M. C. (2023). To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages. ACM Trans. Web, 17(4). https://doi.org/10.1145/3589206
 
