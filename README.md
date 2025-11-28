@@ -15,7 +15,7 @@ Our project aims to hightlight the strengths and weaknesses of the `zim` contain
 
 ## Why Zim?
 
-The preservation of information resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. The format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, `zim` enables fulltext search. An extensive library of `zim` resources in Kiwix (or other offline reader) can function like a offline search engine. Together, the [Kiwix](https://github.com/kiwix) and [openZim](https://github.com/openzim) projects have made utilized the format to make resources like Wikipedia, Project Gutenberg, Ask Ubuntu, 
+The preservation of information resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. The format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, `zim` enables fulltext search; any personal library of `zim` resources in Kiwix (or other offline reader) can function like a offline search engine. Together, the [Kiwix](https://github.com/kiwix) and [openZim](https://github.com/openzim) projects have made utilized the format to make resources like Wikipedia, Project Gutenberg, Ask Ubuntu, 
  
 By compiling a URL source into an online-accessible format, `zim` may be particularly useful for archivists and librarians encountering:
 
