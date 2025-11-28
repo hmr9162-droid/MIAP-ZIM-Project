@@ -34,7 +34,7 @@ Some other considerations include:
 
 + 💾 backups or long-term archives
 + 🔑 providing research or access copies of archived sites
-+ 🧳 traveling without wifi access  
++ 🧳 traveling without wi-fi  
 
 ## Contributors
 
