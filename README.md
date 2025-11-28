@@ -32,7 +32,7 @@ By compiling a URL source into an online-accessible format, `zim` may be particu
 
 Some other considerations include: 
 
-+ 💾 backups or long-term archives
++ 💾 archival backups 
 + 🔑 providing research or access copies of archived sites 
 
 ## Contributors
