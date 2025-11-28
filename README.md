@@ -29,9 +29,9 @@ By compiling a URL source into an online-accessible format, `zim` may be particu
 
 ### Who are we?
 
-* stp305-source (Jamie!) 
-* (put Phoenyx's username here) (Phoenyx!)
-* hmr9162-droid (Hayla!)  
+* stp305-source (Jamie) 
+* (put Phoenyx's username here) (Phoenyx)
+* hmr9162-droid (Hayla)  
 
 We are Motion Image Archiving and Preservation (MIAP) students at NYU. During our studies, we became interested in the potential uses of `zim` for archivists and in promoting access to online tools. 
   
