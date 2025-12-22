@@ -43,7 +43,7 @@ Some other considerations include:
 * pgaston99 (Phoenyx)
 * hmr9162-droid (Hayla)
 
-We are Motion Image Archiving and Preservation (MIAP) students at NYU. During our studies, we became interested in the potential uses of `zim` for archivists and in promoting access to online tools. 
+We are Moving Image Archiving and Preservation (MIAP) students at NYU. During our studies, we became interested in the potential uses of `zim` for archivists and in promoting access to online tools. 
   
 
 ### Contributing
