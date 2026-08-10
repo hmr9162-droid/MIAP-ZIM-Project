@@ -2,7 +2,7 @@
 
 ## 🚧 Under Construction 🚧
 
-# 🥡 ᶻⁱᵐ ˢᵘᵐ
+# 🥡 𝐙𝐢𝐦 𝐒𝐮𝐦
 
 * [Project Description](#project-description)
 * [Why Zim?](#why-zim?)
