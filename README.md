@@ -2,7 +2,7 @@
 
 ## 🚧 Under Construction 🚧
 
-# 🥡 ᴢɪᴍ ꜱᴜᴍ 
+# 🥡 𝘡𝘐𝘔 𝘚𝘶𝘮
 
 * [Project Description](#project-description)
 * [Why Zim?](#why-zim?)
@@ -10,7 +10,7 @@
 * [Source Projects](#source-projects)
 * [Zibliography](#zibliography)
 
-## Project Description
+## ᴘʀᴏᴊᴇᴄᴛ ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ
 
 + Our project aims to highlight the strengths and weaknesses of the `zim` container format, compared to `warc`, the existing web archiving standard. 
 
@@ -19,7 +19,7 @@
 + By comparing key features, we may help inform archivists who have an interest in utilizing the `zim` format for their projects. 
 
 
-## Why Zim?
+## ᴡʜʏ ᴢɪᴍ?
 
 The preservation of web resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. The `zim` format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, `zim` enables fulltext search; thus, any personal library can function like an offline search engine. 
 
@@ -37,9 +37,9 @@ Some other considerations include:
 + archival backups 
 + providing research or access copies of archived sites 
 
-## Contributors
+## ᴄᴏɴᴛʀɪʙᴜᴛᴏʀꜱ
 
-### Who are we?
+### ᵂʰᵒ ᵃʳᵉ ʷᵉ?
 
 * stp305-source (Jamie) 
 * pgaston99 (Phoenyx)
@@ -48,16 +48,16 @@ Some other considerations include:
 We are Moving Image Archiving and Preservation (MIAP) students at NYU. During our studies, we became interested in the potential uses of `zim` for archivists and in promoting access to online tools. 
   
 
-### Contributing
+### ᴄᴏɴᴛʀɪʙᴜᴛɪɴɢ
 
 You are encouraged to experiment and contribute zim or warc files to this repository of archiving resources! 
 
 Bug fixes and or other additions are also welcome. To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) then upload your file to `docs` or modify the `index.html`. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
 
 
-## Source Projects
+## ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛꜱ
 
-### This project utilizes the following resources:
+### ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ᴜᴛɪʟɪᴢᴇꜱ ᴛʜᴇ ꜰᴏʟʟᴏᴡɪɴɢ ʀᴇꜱᴏᴜʀᴄᴇꜱ:
 
 ### [Warc](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.0/): Repository of warc format specifications
 ### [OpenZim](https://openzim.org/): MediaWiki for the openZim project
@@ -70,7 +70,7 @@ Bug fixes and or other additions are also welcome. To contribute to this project
 
 If you contribute a zim of an archiving resource to our repository, we will link to the original webpage here!
 
-## Zibliography
+## ᴢɪʙʟɪᴏɢʀᴀᴘʜʏ
 
 📚 A collection of `zim` literature and related web archiving research:
        
