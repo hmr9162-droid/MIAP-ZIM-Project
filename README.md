@@ -1,8 +1,7 @@
 <img src="images/zim_file_white.png" width="105">
 
-## 🚧 Under Construction 🚧
-
-# 🥡 <img src="images/ascii-art-text (1).png" width="105">
+#🥡 🥡 🥡
+# <img src="images/ascii-art-text (1).png" width="105">
 
 * [Project Description](#project-description)
 * [Why Zim?](#why-zim?)
