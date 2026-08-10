@@ -1,6 +1,3 @@
-<img src="images/zim_file_white.png" width="105">
-
-#🥡 🥡 🥡
 # <img src="images/ascii-art-text (1).png" width="105">
 
 * [Project Description](#project-description)
@@ -17,6 +14,8 @@
 
 + By comparing key features, we may help inform archivists who have an interest in utilizing the `zim` format for their projects. 
 
+
+# <img src="images/zim_file_white.png" width="105">
 
 ## ᴡʜʏ ᴢɪᴍ?
 
