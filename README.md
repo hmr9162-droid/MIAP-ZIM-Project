@@ -2,7 +2,7 @@
 
 ## 🚧 Under Construction 🚧
 
-# MIAP-ZIM-Project 
+# ᴢɪᴍ ꜱᴜᴍ 🥡
 
 * [Project Description](#project-description)
 * [Why Zim?](#why-zim?)
