@@ -16,7 +16,6 @@
 
 
 ## ᴡʜʏ ᴢɪᴍ?
-  <img src="images/zim_file_white.png" width="105">
 
 The preservation of web resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. The `zim` format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, `zim` enables fulltext search; thus, any personal library can function like an offline search engine. 
 
@@ -84,4 +83,7 @@ Phillips, Mark Edward; Phillips, Kristy & Alam, Sawood. Content-Based Characteri
 “Recommended Formats Statement - Resources (Preservation, Library of Congress),” www.loc.gov, n.d., https://www.loc.gov/preservation/resources/rfs/.
 
 “Verifying the Index Using Xapian-Delve — Getting Started with Xapian V1.4.1.” 2018. Readthedocs.io. 2018. https://getting-started-with-xapian.readthedocs.io/en/latest/practical_example/indexing/verifying_the_index.html.
+
+
+<img src="images/zim_file_white.png" width="400">
 
