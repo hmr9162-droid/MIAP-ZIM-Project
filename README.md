@@ -36,8 +36,6 @@ Some other considerations include:
 
 ## ᴄᴏɴᴛʀɪʙᴜᴛᴏʀꜱ
 
-### ᵂʰᵒ ᵃʳᵉ ʷᵉ?
-
 * stp305-source (Jamie) 
 * pgaston99 (Phoenyx)
 * hmr9162-droid (Hayla)
