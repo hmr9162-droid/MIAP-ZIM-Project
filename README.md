@@ -22,7 +22,6 @@
      
 
 <img src="images/zim_file_white.png" width="100">
-
 ## ᴡʜʏ ᴢɪᴍ?
 
 The preservation of web resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. The `zim` format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, `zim` enables fulltext search; thus, any personal library can function like an offline search engine. 
