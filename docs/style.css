@@ -10,6 +10,46 @@
 
 }
 
+.home-button {
+  display: inline-block;
+  padding: 10px 22px;
+  background-color: white;
+  color: black;
+  border: 1px solid #ddd;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.home-button:hover {
+  background-color: #eee;
+}
+
+.home-table { 
+    margin: 0 auto; /* centers the table */ 
+    border-collapse: collapse; 
+    background-color: #C0C0C0; /* gray */ 
+    border: 1px solid #808080; 
+
+} 
+
+.home-table td { 
+    padding: 8px 20px; 
+    text-align: center; 
+
+} .home-table a { 
+    color: #0000EE; 
+    text-decoration: underline; 
+
+} 
+
+.home-table a:visited { color: #551A8B; 
+                      
+} .home-table a:hover { color: #0000CC; 
+
+} .home-table a:active { color: red; 
+
+}
+
 /* body */
 
 html, body { 
