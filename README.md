@@ -35,7 +35,9 @@ By compiling a URL source into an offline-accessible format, `zim` may be partic
 Some other considerations include: 
 
 + archival backups 
-+ providing research or access copies of archived sites 
++ providing research or access copies of archived sites
+
+<br>
 
 ## ᴄᴏɴᴛʀɪʙᴜᴛᴏʀꜱ
 
@@ -44,7 +46,8 @@ Some other considerations include:
 + hmr9162-droid (Hayla)
 
 We are Moving Image Archiving and Preservation (MIAP) students at NYU. During our studies, we became interested in the potential uses of `zim` for archivists and in promoting access to online tools. 
-  
+
+<br>
 
 ### ᴄᴏɴᴛʀɪʙᴜᴛɪɴɢ
 
@@ -52,6 +55,7 @@ You are encouraged to experiment and contribute zim or warc files to this reposi
 
 Bug fixes and or other additions are also welcome. To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) then upload your file to `docs` or modify the `index.html`. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
 
+<br>
 
 ### ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ᴜᴛɪʟɪᴢᴇꜱ ᴛʜᴇ ꜰᴏʟʟᴏᴡɪɴɢ ʀᴇꜱᴏᴜʀᴄᴇꜱ:
 
@@ -66,6 +70,8 @@ Bug fixes and or other additions are also welcome. To contribute to this project
 
 
 *If you contribute a zim of an archiving resource to our repository, we will link to the original webpage here!*
+
+<br>
 
 ### ᴢɪʙʟɪᴏɢʀᴀᴘʜʏ
 
