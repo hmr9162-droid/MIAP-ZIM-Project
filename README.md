@@ -1,4 +1,4 @@
-<img src="images/zim_sum_plus_signs_black.png" width="375">
+<img src="images/zim_sum_plus_signs_black.png" width="350">
 
 <br>
 
@@ -8,7 +8,6 @@
 * [Source Projects](#source-projects)
 * [Zibliography](#zibliography)
 
-<br>
 <br>
 
 ## ᴘʀᴏᴊᴇᴄᴛ ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ
