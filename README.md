@@ -1,6 +1,7 @@
 <img src="images/zim_sum_plus_signs_black.png" width="375">
+
 <br>
-<br>
+
 * [Project Description](#project-description)
 * [Why Zim?](#why-zim?)
 * [Contributors](#contributors)
