@@ -16,6 +16,10 @@
 + By comparing key features, we may help inform archivists who have an interest in utilizing the `zim` format for their projects. 
 
 
+     
+
+<img src="images/zim_file_white.png" width="100">
+
 ## ᴡʜʏ ᴢɪᴍ?
 
 The preservation of web resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. The `zim` format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, `zim` enables fulltext search; thus, any personal library can function like an offline search engine. 
@@ -86,5 +90,4 @@ Phillips, Mark Edward; Phillips, Kristy & Alam, Sawood. Content-Based Characteri
 “Verifying the Index Using Xapian-Delve — Getting Started with Xapian V1.4.1.” 2018. Readthedocs.io. 2018. https://getting-started-with-xapian.readthedocs.io/en/latest/practical_example/indexing/verifying_the_index.html.
 
 
-<img src="images/zim_file_white.png" width="100">
 
