@@ -1,6 +1,4 @@
-<img src="images/zim_sum_plus_signs_black.png" width="500">
-
-<br>
+<img src="images/zim_sum_plus_signs_black.png" width="450">
 
 * [Project Description](#project-description)
 * [Why Zim?](#why-zim?)
@@ -10,7 +8,6 @@
 <br>
 
 ## ᴘʀᴏᴊᴇᴄᴛ ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ
-
 + Our project aims to highlight the strengths and weaknesses of the `zim` container format, compared to `warc`, the existing web archiving standard. 
 
 + We've run crawls on [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/), an FFmpeg resource, and archived the site as both ffmprovisr.zim and ffmprovisr.warc.
