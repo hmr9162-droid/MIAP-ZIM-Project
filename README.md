@@ -22,6 +22,7 @@
      
 
 <img src="images/zim_file_white.png" width="100">
+
 ## ᴡʜʏ ᴢɪᴍ?
 
 The preservation of web resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. The `zim` format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, `zim` enables fulltext search; thus, any personal library can function like an offline search engine. 
@@ -42,9 +43,9 @@ Some other considerations include:
 
 ## ᴄᴏɴᴛʀɪʙᴜᴛᴏʀꜱ
 
-* stp305-source (Jamie) 
-* pgaston99 (Phoenyx)
-* hmr9162-droid (Hayla)
++ stp305-source (Jamie) 
++ pgaston99 (Phoenyx)
++ hmr9162-droid (Hayla)
 
 We are Moving Image Archiving and Preservation (MIAP) students at NYU. During our studies, we became interested in the potential uses of `zim` for archivists and in promoting access to online tools. 
   
@@ -60,19 +61,21 @@ Bug fixes and or other additions are also welcome. To contribute to this project
 
 ### ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ᴜᴛɪʟɪᴢᴇꜱ ᴛʜᴇ ꜰᴏʟʟᴏᴡɪɴɢ ʀᴇꜱᴏᴜʀᴄᴇꜱ:
 
- [Warc](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.0/): Repository of warc format specifications
- [OpenZim](https://openzim.org/): MediaWiki for the openZim project
- [OpenZim](https://github.com/openzim): Repository for zim tools 
- [Kiwix](https://github.com/kiwix): Kiwix offline zim reader repository 
- [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/): Repository of useful FFmpeg command lines for archivists!
- [The Cable Bible](https://amiaopensource.github.io/cable-bible/): A Guide to Cables and Connectors Used for Audiovisual Tech  
+| 🔗 | 📚
+|:--------------:|:----------------------------------------------------------:|
+[Warc](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.0/) | Repository of warc format specifications
+[OpenZim](https://openzim.org/) | MediaWiki for the openZim project
+[OpenZim](https://github.com/openzim) | Repository for zim tools 
+[Kiwix](https://github.com/kiwix) | Kiwix offline zim reader repository 
+[FFmprovisr](https://amiaopensource.github.io/ffmprovisr/) | Repository of useful FFmpeg command lines for archivists!
+[The Cable Bible](https://amiaopensource.github.io/cable-bible/) | A Guide to Cables and Connectors Used for Audiovisual Tech  
 
 
 *If you contribute a zim of an archiving resource to our repository, we will link to the original webpage here!*
 
 ### ᴢɪʙʟɪᴏɢʀᴀᴘʜʏ
 
-A collection of `zim` literature and related web archiving research 📚
+A collection of `zim` literature and related web archiving research 
        
 Al-Khmisy, R., Hosman, L., & Nova, R. (2023). Curating an Offline Wikipedia for Schools in any Language: A Road Map. International Journal of Emerging Technologies in Learning (iJET), 18(21), 129–148. https://doi.org/10.3991/ijet.v18i21.44313
 
