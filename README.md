@@ -68,23 +68,18 @@ Bug fixes and or other additions are also welcome. To contribute to this project
 
 ### ᴢɪʙʟɪᴏɢʀᴀᴘʜʏ
 
-A collection of `zim` literature and related web archiving research 
+*A collection of `zim` literature and related web archiving research* 
        
-Al-Khmisy, R., Hosman, L., & Nova, R. (2023). Curating an Offline Wikipedia for Schools in any Language: A Road Map. International Journal of Emerging Technologies in Learning (iJET), 18(21), 129–148. https://doi.org/10.3991/ijet.v18i21.44313
-
-Aturban, Mohamed. "A Framework for Verifying the Fixity of Archived Web Resources" (2020). Doctor of Philosophy (PhD), Dissertation, Computer Science, Old Dominion University, DOI: 10.25777/pc8d-y213 https://digitalcommons.odu.edu/computerscience_etds/125
-
-Berlin, J., Kelly, M., Nelson, M. L., & Weigle, M. C. (2023). To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages. ACM Trans. Web, 17(4). https://doi.org/10.1145/3589206
-
-Brügger, Niels. Archiving Websites: General Considerations and Strategies. Aarhus, Denmark: The Centre for Internet Research, 2005. http://cfi.au.dk/fileadmin/www.cfi.au.dk/publikationer/archiving_underside/archiving.pdf
-
-International Internet Conservation Consortium. “ Zstandard Compression of Warc Files 1.0 Proposed.” Warc Specifications. Accessed December 5, 2025. https://iipc.github.io/warc-specifications/specifications/warc-zstd/
-
-Phillips, Mark Edward; Phillips, Kristy & Alam, Sawood. Content-Based Characterization of the End of Term Web Archive, article, September 2023; (https://digital.library.unt.edu/ark:/67531/metadc2201623/: accessed December 11, 2025), 
-
-“Recommended Formats Statement - Resources (Preservation, Library of Congress),” www.loc.gov, n.d., https://www.loc.gov/preservation/resources/rfs/.
-
-“Verifying the Index Using Xapian-Delve — Getting Started with Xapian V1.4.1.” 2018. Readthedocs.io. 2018. https://getting-started-with-xapian.readthedocs.io/en/latest/practical_example/indexing/verifying_the_index.html.
+| 🔗 | 📚
+|:--------------:|:----------------------------------------------------------:|
+[Offline Wikipedia](https://doi.org/10.3991/ijet.v18i21.44313) | Al-Khmisy, R., Hosman, L., & Nova, R. (2023). Curating an Offline Wikipedia for Schools in any Language: A Road Map. International Journal of Emerging Technologies in Learning (iJET), 18(21), 129–148. 
+[Verifying the Fixity of Archived Web Sources](https://digitalcommons.odu.edu/computerscience_etds/125) | Aturban, Mohamed. "A Framework for Verifying the Fixity of Archived Web Resources" (2020). Doctor of Philosophy (PhD), Dissertation, Computer Science, Old Dominion University, DOI: 10.25777/pc8d-y213 
+(https://doi.org/10.1145/3589206) | Berlin, J., Kelly, M., Nelson, M. L., & Weigle, M. C. (2023). To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages. ACM Trans. Web, 17(4). 
+[Archiving Websites](http://cfi.au.dk/fileadmin/www.cfi.au.dk/publikationer/archiving_underside/archiving.pdf) | Brügger, Niels. Archiving Websites: General Considerations and Strategies. Aarhus, Denmark: The Centre for Internet Research, 2005. 
+[ZStandard Compression](https://iipc.github.io/warc-specifications/specifications/warc-zstd/) | International Internet Conservation Consortium. “ Zstandard Compression of Warc Files 1.0 Proposed.” Warc Specifications. Accessed December 5, 2025. 
+[EOT Web Archive](https://digital.library.unt.edu/ark:/67531/metadc2201623/)| Phillips, Mark Edward; Phillips, Kristy & Alam, Sawood. Content-Based Characterization of the End of Term Web Archive, article, September 2023;  
+[LoC Web Archive Formats](https://www.loc.gov/preservation/resources/rfs/) | “Recommended Formats Statement - Resources (Preservation, Library of Congress),” www.loc.gov, n.d., 
+[Xapian Delve](https://getting-started-with-xapian.readthedocs.io/en/latest/practical_example/indexing/verifying_the_index.html) | “Verifying the Index Using Xapian-Delve — Getting Started with Xapian V1.4.1.” 2018. Readthedocs.io. 2018. 
 
 
 
