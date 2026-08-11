@@ -7,7 +7,6 @@
 * [Contributors](#contributors)
 * [Source Projects](#source-projects)
 * [Zibliography](#zibliography)
-
 <br>
 
 ## ᴘʀᴏᴊᴇᴄᴛ ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ
