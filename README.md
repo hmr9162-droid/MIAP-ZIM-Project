@@ -13,7 +13,10 @@
 
 + We've run crawls on [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/), an FFmpeg resource, and archived the site as both ffmprovisr.zim and ffmprovisr.warc.
 
-+ By comparing key features, we may help inform archivists who have an interest in utilizing the `zim` format for their projects. 
++ By comparing key features, we may help inform archivists who have an interest in utilizing the `zim` format for their projects.
+
+
+        
 
 
      
@@ -54,24 +57,23 @@ You are encouraged to experiment and contribute zim or warc files to this reposi
 Bug fixes and or other additions are also welcome. To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) then upload your file to `docs` or modify the `index.html`. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
 
 
-## ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛꜱ
+### ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛꜱ
 
 ### ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ᴜᴛɪʟɪᴢᴇꜱ ᴛʜᴇ ꜰᴏʟʟᴏᴡɪɴɢ ʀᴇꜱᴏᴜʀᴄᴇꜱ:
 
-### [Warc](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.0/): Repository of warc format specifications
-### [OpenZim](https://openzim.org/): MediaWiki for the openZim project
-### [OpenZim](https://github.com/openzim): Repository for zim tools 
-### [Kiwix](https://github.com/kiwix): Kiwix offline zim reader repository 
-### [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/): Repository of useful FFmpeg command lines for archivists!
-### [The Cable Bible](https://amiaopensource.github.io/cable-bible/): A Guide to Cables and Connectors Used for Audiovisual Tech  
+ [Warc](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.0/): Repository of warc format specifications
+ [OpenZim](https://openzim.org/): MediaWiki for the openZim project
+ [OpenZim](https://github.com/openzim): Repository for zim tools 
+ [Kiwix](https://github.com/kiwix): Kiwix offline zim reader repository 
+ [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/): Repository of useful FFmpeg command lines for archivists!
+ [The Cable Bible](https://amiaopensource.github.io/cable-bible/): A Guide to Cables and Connectors Used for Audiovisual Tech  
 
 
+*If you contribute a zim of an archiving resource to our repository, we will link to the original webpage here!*
 
-If you contribute a zim of an archiving resource to our repository, we will link to the original webpage here!
+### ᴢɪʙʟɪᴏɢʀᴀᴘʜʏ
 
-## ᴢɪʙʟɪᴏɢʀᴀᴘʜʏ
-
-📚 A collection of `zim` literature and related web archiving research:
+A collection of `zim` literature and related web archiving research 📚
        
 Al-Khmisy, R., Hosman, L., & Nova, R. (2023). Curating an Offline Wikipedia for Schools in any Language: A Road Map. International Journal of Emerging Technologies in Learning (iJET), 18(21), 129–148. https://doi.org/10.3991/ijet.v18i21.44313
 
