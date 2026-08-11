@@ -1,4 +1,4 @@
-<img src="images/zim_sum_plus_signs_black.png" width="350">
+<img src="images/zim_sum_plus_signs_black.png" width="500">
 
 <br>
 
