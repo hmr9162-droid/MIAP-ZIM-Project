@@ -1,8 +1,4 @@
-++++++++   +++   +++++   ++++           ++++++   +++    +++   +++++   ++++
-    +++    +++   +++ ++ +++++         ++         +++    +++   +++ ++ +++++
-   +++     +++   +++  ++  +++         +++++      +++    +++   +++  ++  +++
- +++       +++   +++      +++              +++   +++    +++   +++      +++
-++++++++   +++   +++      +++         ++++++++   ++++++++++   +++      +++
+<img src=images/zim_sum_plus_signs_black.png" width="100">
 
 
 * [Project Description](#project-description)
@@ -90,5 +86,5 @@ Phillips, Mark Edward; Phillips, Kristy & Alam, Sawood. Content-Based Characteri
 “Verifying the Index Using Xapian-Delve — Getting Started with Xapian V1.4.1.” 2018. Readthedocs.io. 2018. https://getting-started-with-xapian.readthedocs.io/en/latest/practical_example/indexing/verifying_the_index.html.
 
 
-<img src="images/zim_file_white.png" width="300">
+<img src="images/zim_file_white.png" width="200">
 
