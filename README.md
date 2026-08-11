@@ -15,11 +15,9 @@
 
 + By comparing key features, we may help inform archivists who have an interest in utilizing the `zim` format for their projects.
 
-
-        
-
-
-     
+<br>
+<br>
+<br>
 
 <img src="images/zim_file_white.png" width="100">
 
@@ -56,8 +54,6 @@ You are encouraged to experiment and contribute zim or warc files to this reposi
 
 Bug fixes and or other additions are also welcome. To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) then upload your file to `docs` or modify the `index.html`. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
 
-
-### ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛꜱ
 
 ### ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ᴜᴛɪʟɪᴢᴇꜱ ᴛʜᴇ ꜰᴏʟʟᴏᴡɪɴɢ ʀᴇꜱᴏᴜʀᴄᴇꜱ:
 
