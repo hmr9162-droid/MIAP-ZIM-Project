@@ -1,12 +1,14 @@
 <img src="images/zim_sum_plus_signs_black.png" width="375">
-
-
+<br>
+<br>
 * [Project Description](#project-description)
 * [Why Zim?](#why-zim?)
 * [Contributors](#contributors)
 * [Source Projects](#source-projects)
 * [Zibliography](#zibliography)
 
+<br>
+<br>
 ## ᴘʀᴏᴊᴇᴄᴛ ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ
 
 + Our project aims to highlight the strengths and weaknesses of the `zim` container format, compared to `warc`, the existing web archiving standard. 
