@@ -49,7 +49,7 @@ We are Moving Image Archiving and Preservation (MIAP) students at NYU. During ou
 
 <br>
 
-### ᴄᴏɴᴛʀɪʙᴜᴛɪɴɢ
+## ᴄᴏɴᴛʀɪʙᴜᴛɪɴɢ
 
 You are encouraged to experiment and contribute zim or warc files to this repository of archiving resources! 
 
@@ -57,7 +57,7 @@ Bug fixes and or other additions are also welcome. To contribute to this project
 
 <br>
 
-### ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ᴜᴛɪʟɪᴢᴇꜱ ᴛʜᴇ ꜰᴏʟʟᴏᴡɪɴɢ ʀᴇꜱᴏᴜʀᴄᴇꜱ:
+## ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ᴜᴛɪʟɪᴢᴇꜱ ᴛʜᴇ ꜰᴏʟʟᴏᴡɪɴɢ ʀᴇꜱᴏᴜʀᴄᴇꜱ:
 
 | 🔗 | 📚
 |:--------------:|:----------------------------------------------------------:|
@@ -73,7 +73,7 @@ Bug fixes and or other additions are also welcome. To contribute to this project
 
 <br>
 
-### ᴢɪʙʟɪᴏɢʀᴀᴘʜʏ
+## ᴢɪʙʟɪᴏɢʀᴀᴘʜʏ
 
 *A collection of `zim` literature and related web archiving research* 
        
