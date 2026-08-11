@@ -2,7 +2,7 @@
 
 * [Create your first .ZIM](hmr9162-droid.github.io/ZimSum/)
 * [Project Description](#project-description)
-* [Why Zim?](#why-zim?)
+* [Why .ZIM?](#why-zim?)
 * [Contributors](#contributors)
 * [Source Projects](#source-projects)
 * [Zibliography](#zibliography)
