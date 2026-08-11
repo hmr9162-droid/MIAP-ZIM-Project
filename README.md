@@ -1,6 +1,6 @@
 <img src="images/zim_sum_plus_signs_black.png" width="500">
 
-* [🥡 Homepage](hmr9162-droid.github.io/ZimSum/)
+* [🥡](hmr9162-droid.github.io/ZimSum/)
 * [Project Description](#project-description)
 * [Why .ZIM?](#why-zim?)
 * [Contributors](#contributors)
