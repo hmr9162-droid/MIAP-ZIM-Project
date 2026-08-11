@@ -1,4 +1,4 @@
-<img src="images/zim_sum_plus_signs_black.png" width="300">
+<img src="images/zim_sum_plus_signs_black.png" width="500">
 
 
 * [Project Description](#project-description)
