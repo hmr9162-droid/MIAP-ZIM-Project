@@ -10,6 +10,23 @@
 
 }
 
+/* body */
+
+html, body { 
+    margin: 0; 
+    min-height: 100%; 
+
+}
+
+body { 
+    font-size: 1rem; 
+    font-family: Helvetica;
+    color: black; 
+    padding: 30px; 
+    box-sizing: border-box; 
+
+}
+
 /* home button */ 
 
 .table {
@@ -63,7 +80,7 @@ body {
 
     .tabs {
     display: flex;
-    width: 100%
+    width: 100%;
     flex-direction: column;
     align-items: flex-start;
 }
@@ -106,3 +123,5 @@ body {
 [class^="tab-content-"] {
     display: none;
 }
+
+
