@@ -1,4 +1,4 @@
-<img src="images/zim_sum_plus_signs_black.png" width="500">
+<img src="images/zim_sum_plus_signs_black.png" width="300">
 
 * [Home](hmr9162-droid.github.io/ZimSum/)
 * [Project Description](#project-description)
