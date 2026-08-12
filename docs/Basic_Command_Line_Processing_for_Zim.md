@@ -1,6 +1,6 @@
 # $\color{#A9A9A9}\text{ZIM SUM}$ 
 
-## (๑ᵔ⤙ᵔ๑) Beginner-Friendly Recipes ‧₊˚ ⋅  𓐐𓎩 ‧₊˚ ⋅
+## Beginner-Friendly Recipes ‧₊˚ ⋅  𓐐𓎩 ‧₊˚ ⋅ 
 .ZIM files archive simple html websites (often from Wikipedia) and preserve them for use with Kiwix, or another .ZIM reader, which allows webpage navigation $\color{#A9A9A9}\text{without being connected to the internet}$ This guide aims to simplify existing resources and make them accessible independent of experience level. All line-items from this guide are derived from the sources in the table below:
 
 | 🔗 | 📚
@@ -31,7 +31,7 @@ $ sudo apt upgrade
 Docker Alternative:
     $ sudo docker pull ghcr.io/openzim/zim-tools:3.6.0
 
-## 4. Using the zimwriterfs command
+## 4. Using the zimwriterfs command 
 
 ## Purpose
 
@@ -82,15 +82,17 @@ Example:
 	
 	zimwriterfs --welcome=index.html --illustration=illustration.png --language=fra --title=foobar --description=mydescription \ --creator=Wikipedia --publisher=Kiwix ./my_project_html_directory my_project.zim
 
-## Two example commands:
+## 5. Enjoying your library (๑ᵔ⤙ᵔ๑) 
 
-# ffmprovisr
+# Two example commands:
 
-$ zimwriterfs --welcome=index.html --illustration=shootingstar.png --language=en --title=ffmprovisr --description=offline --creator=amiaopensource --publisher=your_name amiaopensource.github.io/ffmprovisr ffmprovisr.zim
+### ffmprovisr
 
-# cable-bible 
+	$ zimwriterfs --welcome=index.html --illustration=shootingstar.png --language=en --title=ffmprovisr --description=offline --creator=amiaopensource --publisher=your_name amiaopensource.github.io/ffmprovisr ffmprovisr.zim
 
-$ zimwriterfs --welcome=index.html --illustration=plug.png --language=en --title=cable-bible --description=offline --creator=amiaopensource --publisher=your_name amiaopensource.github.io/cable-bible cable-bible.zim
+### cable-bible 
 
-## Versioning
+	$ zimwriterfs --welcome=index.html --illustration=plug.png --language=en --title=cable-bible --description=offline --creator=amiaopensource --publisher=your_name amiaopensource.github.io/cable-bible cable-bible.zim
+
+## 6. Versioning ‧₊˚🖇️✩ ₊˚📖
     Consider including semantic versioning in your file_name.zim if the URL source is a website or github repository that may be subject to contributions or updates over time. See: https://semver.org/
