@@ -118,50 +118,69 @@ body {
 
 /* tab layout and design */ 
 
-    .tabs {
-    display: flex;
-    width: 100%;
-    flex-direction: column;
-    align-items: flex-start;
-}
+.tabs { 
+      display: flex; 
+      flex-wrap: wrap; 
+      align-items: center; 
+      width: 100%; 
+  
+} 
 
-.tabs input[type="radio"] {
-    display: none;
-}
+.tabs label { 
+    display: block; 
+    padding: 10px 22px; 
+    margin: 0 4px 0 0; 
+    background-color: white; 
+    ccolor: black; 
+    border: 1px solid #ddd; 
+    border-radius: 50px; 
+    cursor: pointer; 
+    text-align: center; 
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease; 
 
-.tabs label {
-    display: block;
-    width: 100%;
-    box-sizing: border-box;
-    padding: 10px 22px;
-    margin: 2px 0;
-    background-color: white;
-    color: black;
-    border: 1px solid #ddd;
-    border-radius: 50px;
-    cursor: pointer;
-    transition: all 0.5s ease;
-    text-align: left;
-}
+} 
 
-.tabs input:checked +label {
-    color: #101010;
-}
-
-
-.tab-content {
-    grid-column: 2;
-    grid-row: 1/span 4;
-    padding: 0 1.5rem;
+#tab1:checked + label, 
+#tab2:checked + label, 
+#tab3:checked + label, 
+#tab4:checked + label { background-color: #eee; color: #101010; border-color: #aaa; 
 
 }
 
-.tab-content {
-    padding:1rem;
+#tab1:checked ~ .tab-content .tab-content-1 { display: block; 
+                                             
+} 
+
+#tab2:checked ~ .tab-content .tab-content-2 { display: block; 
+                                             
+} 
+
+#tab3:checked ~ .tab-content .tab-content-3 { display: block; 
+
+} 
+
+#tab4:checked ~ .tab-content .tab-content-4 { display: block; 
+
 }
 
-[class^="tab-content-"] {
-    display: none;
+.tab-content h1 { margin-top: 0; color: #000066; 
+                
+} 
+
+.tab-content p { 
+    line-height: 1.5; 
 }
 
+/* Hover */ 
 
+.tabs label:hover { 
+    background-color: #eee; 
+    border-color: #ccc; 
+
+}
+
+/* Hide radio buttons */ 
+
+.tabs input[type="radio"] { 
+    display: none; 
+}
