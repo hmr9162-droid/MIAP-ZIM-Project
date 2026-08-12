@@ -89,125 +89,70 @@
 
     } 
 
-    .logo-right { 
-  	   max-width: 20vw;
-       height: auto;
-    }
-
 /* body */
 
-html, body { 
-    margin: 0; 
-    min-height: 100%; 
+	html, body { 
+  		margin: 0;
+  		padding: 0;
+	} 
 
-}
+	}
 
-body { 
-    font-size: 1rem; 
-    font-family: Helvetica;
-    color: black; 
-    padding: 30px; 
-    box-sizing: border-box; 
+	body { 
+    	font-size: 1rem; 
+    	font-family: Helvetica;
+    	color: black; 
+    	padding: 30px; 
+    	box-sizing: border-box; 
 
-}
+	}
 
 /* MAIN WEBSITE PAGE */
 
 /* body and widget formatting */ 
 
-p:not(:last-child) {
-    margin-block-end: 1em;
-}
-    
-html, body {
-    margin: 0;
-    min-height: 100%;
-    background-color: white;
-}
+	p:not(:last-child) {
+    	margin-block-end: 1em;
+	}
 
-body {
-    font-size: 1rem;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    color: black;
-    padding: 30px;
-    box-sizing: border-box;
-}
-
-.widget {
-    width: 80vw;
-    max-width: 600px;
-    padding: 1rem;
-    margin: 2rem auto;
-    border-radius: 1rem;
-    background-color: #fff;
-    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.025);
-}
+	.widget {
+    	width: 80vw;
+    	max-width: 600px;
+    	padding: 1rem;
+    	margin: 2rem auto;
+    	border-radius: 1rem;
+    	background-color: #fff;
+    	box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.025);
+	}
 
 /* tab layout and design */ 
 
-.tabs { 
-      display: flex; 
-      flex-wrap: wrap; 
-      align-items: center; 
-      width: 100%; 
-  
-} 
-
-.tabs label { 
-    display: block; 
-    padding: 10px 22px; 
-    margin: 0 4px 0 0; 
-    background-color: white; 
-    ccolor: black; 
-    border: 1px solid #ddd; 
-    border-radius: 50px; 
-    cursor: pointer; 
-    text-align: center; 
-    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease; 
-
-} 
-
-#tab1:checked + label, 
-#tab2:checked + label, 
-#tab3:checked + label, 
-#tab4:checked + label { background-color: #eee; color: #101010; border-color: #aaa; 
-
+	/* active tab */ 
+    
+    #tab1:checked ~ .tab-buttons label[for="tab1"], 
+    #tab2:checked ~ .tab-buttons label[for="tab2"], 
+    #tab3:checked ~ .tab-buttons label[for="tab3"], 
+    #tab4:checked ~ .tab-buttons label[for="tab4"] { 
+        background-color: #333; 
+        color: white; border-color: #333; 
+    
 }
 
-#tab1:checked ~ .tab-content .tab-content-1 { display: block; 
-                                             
-} 
+/* inside the tab contents */
 
-#tab2:checked ~ .tab-content .tab-content-2 { display: block; 
-                                             
-} 
+    .tab-content-1, 
+    .tab-content-2, 
+    .tab-content-3, 
+    .tab-content-4 { 
+        display: none; }
 
-#tab3:checked ~ .tab-content .tab-content-3 { display: block; 
+    #tab1:checked ~ .widget .tab-content-1 { 
+        display: block; } 
+    #tab2:checked ~ .widget .tab-content-2 { 
+        display: block; } 
+    #tab3:checked ~ .widget .tab-content-3 { 
+        display: block; } 
+    #tab4:checked ~ .widget .tab-content-4 { 
+        display: block; 
 
-} 
-
-#tab4:checked ~ .tab-content .tab-content-4 { display: block; 
-
-}
-
-.tab-content h1 { margin-top: 0; color: #000066; 
-                
-} 
-
-.tab-content p { 
-    line-height: 1.5; 
-}
-
-/* Hover */ 
-
-.tabs label:hover { 
-    background-color: #eee; 
-    border-color: #ccc; 
-
-}
-
-/* Hide radio buttons */ 
-
-.tabs input[type="radio"] { 
-    display: none; 
 }
