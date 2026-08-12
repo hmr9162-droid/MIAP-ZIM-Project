@@ -2,43 +2,44 @@
 
 /* DOOR OR ENTRY PAGE */ 
 
-.home-page {
-    color: #000066;
-    background-color: #C0C0C0;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 13px;
+    .door {
+        color: #000066;
+        background-color: #C0C0C0;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 13px;
 
-}
+    }
 
-.home-box {
-  display: inline-block;
-  justify: center;
-  align-items: center;
-  padding: 10px 22px;
+    .door {
+      display: inline-block;
+      justify: center;
+      align-items: center;
+      padding: 10px 22px;
+      background-color: #C0C0C0;
+      color: black;
+      border: 1px solid #ddd;
+      text-decoration: underlne;
+      cursor: pointer;
+    }
+
+.door:hover {
   background-color: #C0C0C0;
-  color: black;
-  border: 1px solid #ddd;
-  text-decoration: underlne;
-  cursor: pointer;
 }
 
-.home-box:hover {
-  background-color: #C0C0C0;
-}
-
-.home-box a:visited { 
+.door a:visited { 
     color: #0000cc; 
 } 
 
-.home-box a:hover { 
+.door a:hover { 
     color: #0000cc; 
 
 } 
 
-.home-box a:active { 
+.door a:active { 
     color: #0000cc; 
 }
 
+/* MAIN PAGE */
 
 /* body */
 
