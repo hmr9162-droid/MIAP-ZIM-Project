@@ -15,9 +15,7 @@
 
 + By comparing key features, we may help inform archivists who have an interest in utilizing the `zim` format for their projects.
 
-<br>
-
-<img src="images/zim_file_white.png" width="80">     
+<br>  
 
 ## ᴡʜʏ ᴢɪᴍ?
 
@@ -72,6 +70,8 @@ Bug fixes and or other additions are also welcome. To contribute to this project
 *If you contribute a zim of an archiving resource to our repository, we will link to the original webpage here!*
 
 <br>
+
+<img src="images/zim_file_white.png" width="80">   
 
 ## ᴢɪʙʟɪᴏɢʀᴀᴘʜʏ
 
