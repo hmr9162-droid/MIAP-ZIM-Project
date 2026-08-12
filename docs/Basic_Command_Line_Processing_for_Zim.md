@@ -3,11 +3,11 @@
 ## Beginner-Friendly Recipes 
 .ZIM files archive simple html websites (often from Wikipedia) and preserve them for use with Kiwix, or another .ZIM reader, which allows webpage navigation $\color{#A9A9A9}\text{without being connected to the internet.}$ This guide aims to simplify existing resources and make them accessible independent of experience level. All line-items from this guide are derived from the sources in the table below:
 
-
-[Kiwix](https://kiwix.org/en/applications/) | Desktop software for archiving and accessing webpage content offline
-|:--------------:|:----------------------------------------------------------:|
-[ZIM-TOOLS](https://github.com/openzim/zim-tools) | Source code 
 [Open ZIM](https://openzim.org) | Format documentation 
+|:--------------:|:----------------------------------------------------------:|
+[Kiwix](https://kiwix.org/en/applications/) | Desktop software for archiving and accessing webpage content offline
+[ZIM-TOOLS](https://github.com/openzim/zim-tools) | Source code 
+
 
 # $\color{#A9A9A9}\text{Creating a .ZIM File }$ 
 
