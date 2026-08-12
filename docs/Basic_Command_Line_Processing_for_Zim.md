@@ -5,7 +5,7 @@
 
 [Open ZIM](https://openzim.org) | Format documentation 
 |:--------------:|:----------------------------------------------------------:|
-[Kiwix](https://kiwix.org/en/applications/) | Desktop software for archiving and accessing webpage content offline
+[Kiwix](https://kiwix.org/en/applications/) | Desktop reader
 [ZIM-TOOLS](https://github.com/openzim/zim-tools) | Source code 
 
 
