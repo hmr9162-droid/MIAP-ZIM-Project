@@ -12,8 +12,10 @@
 
 .home-box {
   display: inline-block;
+  justify: center;
+  align-items: center;
   padding: 10px 22px;
-  background-color: white;
+  background-color: #C0C0C0;
   color: black;
   border: 1px solid #ddd;
   text-decoration: underlne;
@@ -21,11 +23,11 @@
 }
 
 .home-box:hover {
-  background-color: #eee;
+  background-color: #C0C0C0;
 }
 
 .home-box a:visited { 
-    color: #551a8b; 
+    color: #0000cc; 
 } 
 
 .home-box a:hover { 
@@ -34,7 +36,7 @@
 } 
 
 .home-box a:active { 
-    color: red; 
+    color: #0000cc; 
 }
 
 
