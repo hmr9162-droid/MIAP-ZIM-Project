@@ -42,43 +42,52 @@ Finally, as archivists, our project also aims to highlight the strengths and wea
 
 # $\color{#A9A9A9}\text{Creating a .ZIM File }$ 
 
-## 1. Check for system updates 
+## 1. Check for system updates 🛒 ⋆˙⟡
+
+open MacOS terminal -> [command] + [space]  
+open Windows terminal -> [win] + [r] then, [wt]
+Then run: 
 
 	$ sudo apt update
+
+and, 
+
 	$ sudo apt upgrade
 
-## 2. Install Dependencies 
-
-## You may need all of the following to create your .zim using the zimwriterfs command:
+## 2. Install Dependencies ⊹₊🔥
+	
 	$ sudo snap install docker
 	$ sudo apt install pkgconf
 	$ sudo apt install googletest
 	$ sudo apt install python3-pip meson
 
-## 3. Install .ZIM tools
+## 3. Install .ZIM tools ⟡₊˚🥢 🥣 🥄 ♡ *.ﾟ
+	
+	$ sudo apt install libzim-dev 
+	$ sudo apt install libmagic-dev 
+	$ sudo apt install zliblg-dev 
+	$ sudo apt install libgumbo-dev 
+	$ sudo apt install libicu-dev
+
+and, 
+
 	$ sudo apt install zimwriterfs
-	$ sudo apt install libzim-dev libmagic-dev zliblg-dev libgumbo-dev libicu-dev
 
-### zimwriterfs packages together a webpages key ingredients:
+*zimwriterfs packages together a webpage's key ingredients* 
 
-+ HTML
-+ CSS
-+ JavaScript
-+ PNGs
-+ JPGs
-+ GIFs
-+ Video, and other web resources into a single .ZIM archive
++ HTML + CSS + JavaScript + PNGs + JPGs + GIFs + Video, and other web resources into a single .ZIM archive
 
-### the basic argument or recipe is: 
+*using the recipe below* ‧₊˚ ⋅🥕‧ 𖦹°‧₊
 
-	$ zimwriterfs + [mandatory arguments] + [optional arguments] + HTML_DIRECTORY + [Name_for_your_ZIM_FILE]
+	$ zimwriterfs + [mandatory arguments] + [optional arguments] + HTML_DIRECTORY + [Name_for_your_delicious_new_zim_file]
+	
 
-Docker Alternative:
+Docker can also be used to compile all of the .ZIM tools in one command.
 
 	$ sudo docker pull ghcr.io/openzim/zim-tools:3.6.0
 	
 
-## 4. Using the zimwriterfs command 
+## 4. Assembling an argument with zimwriterfs  𓐐𓎩 ⋆˙⟡ 𓌉◯𓇋 ⟡ ₊
 
 Two example commands:
 
@@ -91,6 +100,8 @@ Two example commands:
 	$ zimwriterfs --welcome=index.html --illustration=plug.png --language=en --title=cable-bible --description=offline --creator=amiaopensource --publisher=your_name amiaopensource.github.io/cable-bible cable-bible.zim
 
 ## 5. Enjoying your library 
+
+## 6. Sharing your library 🥡
 
 ## 6. Versioning ‧₊˚🖇️✩ ₊˚📖
 Consider including semantic versioning in your file_name.zim if the URL source is a website or github repository that may be subject to contributions or updates over time. See: https://semver.org/
