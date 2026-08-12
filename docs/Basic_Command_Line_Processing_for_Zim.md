@@ -4,10 +4,11 @@
 
 .ZIM files archive simple html websites, often Wikipedia, and preserve them for use offline. Kiwix is a free and open source .ZIM reader which can be used to navigate webpages without being connected to the internet.
 
-|:----------------------:|:-------------:|
-[The Reader](https://kiwix.org/en/applications/)
-[The Source Code](https://github.com/openzim/zim-tools)
-[The Format](https://openzim.org)
+| 🔗 | 📚
+|:--------------:|:----------------------------------------------------------:|
+[Kiwix](https://kiwix.org/en/applications/) | Desktop software for archiving and accessing webpage content offline
+[ZIM-TOOLS](https://github.com/openzim/zim-tools) | Source code 
+[Open ZIM](https://openzim.org) | Format documentation 
 
 # Creating a .ZIM File 
 
