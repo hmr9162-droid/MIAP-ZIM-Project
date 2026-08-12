@@ -6,12 +6,12 @@
 
 
 * [Home](hmr9162-droid.github.io/ZimSum/)
-* [Project Description](#project-description)
-* [Why .ZIM?](#why-zim?)
-* [Contributors](#contributors)
-* [Creating a .ZIM file](# $\color{#A9A9A9}\text{Creating a .ZIM File }$) 
-* [Source Projects](#source-projects)
-* [Zibliography](#zibliography)
+* [Project Description](#Project-description)
+* [Why .ZIM?](#Why-zim?)
+* [Contributors](#Contributors)
+* [Creating a .ZIM file](#Creating-a-.ZIM-File) 
+* [Source Projects](#Source-projects)
+* [Zibliography](#Zibliography)
 
      
 ## ᴘʀᴏᴊᴇᴄᴛ ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ
