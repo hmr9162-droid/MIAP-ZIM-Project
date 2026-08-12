@@ -14,22 +14,17 @@
 * [Zibliography](https://github.com/hmr9162-droid/ZimSum#%E1%B4%A2%C9%AA%CA%99%CA%9F%C9%AA%E1%B4%8F%C9%A2%CA%80%E1%B4%80%E1%B4%98%CA%9C%CA%8F)
 
      
-## ᴘʀᴏᴊᴇᴄᴛ ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ
-+ Our project aims to highlight the strengths and weaknesses of the `zim` container format, compared to `warc`, the existing web archiving standard. 
-
-+ We've run crawls on [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/), an FFmpeg resource, and archived the site as both ffmprovisr.zim and ffmprovisr.warc.
-
-+ By comparing key features, we may help inform archivists who have an interest in utilizing the `zim` format for their projects.
+## Project Description
 
 <br>  
 
-## ᴡʜʏ ᴢɪᴍ?
+## Why `.zim`?
 
-*The preservation of web resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. The `zim` format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, `zim` enables fulltext search; thus, any personal library can function like an offline search engine.* 
+*The preservation of web resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. The `.zim` format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, `.zim` enables fulltext search; thus, any personal library can function like an offline search engine.* 
 
-*Together, the [Kiwix](https://github.com/kiwix) and [OpenZim](https://github.com/openzim) projects have utilized the format to make resources like Wikipedia, Project Gutenberg, Stack Exchange and Ask Ubuntu, accesible and searchable. These open source tools have led to many indvidual archive projects. In 2025, a `zim` of [cdc.gov](https://archive.org/details/www.cdc.gov_en_all_novid_2025-01) was contributed to Internet Archive 🏛.*
+*Together, the [Kiwix](https://github.com/kiwix) and [OpenZim](https://github.com/openzim) projects have utilized the format to make resources like Wikipedia, Project Gutenberg, Stack Exchange and Ask Ubuntu, accesible and searchable. These open source tools have led to many indvidual archive projects. In 2025, a `.zim` of [cdc.gov](https://archive.org/details/www.cdc.gov_en_all_novid_2025-01) was contributed to Internet Archive 🏛.*
  
-By compiling a URL source into an offline-accessible format, `zim` may be particularly useful for archivists and librarians encountering:
+By compiling a URL source into an offline-accessible format, `.zim` may be particularly useful for archivists and librarians encountering:
 
 + little or no internet access 
 + limited electricity (online browsing drains power!) 
@@ -41,33 +36,16 @@ Some other considerations include:
 + archival backups 
 + providing research or access copies of archived sites
 
-<br>
-
-## ᴄᴏɴᴛʀɪʙᴜᴛᴏʀꜱ
-
-+ stp305-source (Jamie) 
-+ pgaston99 (Phoenyx)
-+ hmr9162-droid (Hayla)
-
-We are Moving Image Archiving and Preservation (MIAP) students at NYU. During our studies, we became interested in the potential uses of `zim` for archivists and in promoting access to online tools. 
+Finally, as archivists, our project also aims to highlight the strengths and weaknesses of the `.zim` container format, compared to `.warc`, the existing web archiving standard. We've run crawls on [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/), an FFmpeg resource, and archived the site as both ffmprovisr.zim and ffmprovisr.warc. By comparing use-cases and key features, archivists can make stronger arguments for utilizing the `.zim` format for their projects.
 
 <br>
-
-## ᴄᴏɴᴛʀɪʙᴜᴛɪɴɢ
-
-You are encouraged to experiment and contribute zim or warc files to this repository of archiving resources! 
-
-Bug fixes and or other additions are also welcome. To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) then upload your file to `docs` or modify the `index.html`. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
-
-<br>
-
 
 # $\color{#A9A9A9}\text{Creating a .ZIM File }$ 
 
 ## 1. Check for system updates 
 
-$ sudo apt update
-$ sudo apt upgrade
+	$ sudo apt update
+	$ sudo apt upgrade
 
 ## 2. Install Dependencies 
 
@@ -93,52 +71,16 @@ $ sudo apt upgrade
 
 ### the basic argument or recipe is: 
 
-zimwriterfs + [mandatory arguments] + [optional arguments] + HTML_DIRECTORY + [Name_for_your_ZIM_FILE]
+	$ zimwriterfs + [mandatory arguments] + [optional arguments] + HTML_DIRECTORY + [Name_for_your_ZIM_FILE]
 
 Docker Alternative:
-    $ sudo docker pull ghcr.io/openzim/zim-tools:3.6.0
+
+	$ sudo docker pull ghcr.io/openzim/zim-tools:3.6.0
+	
 
 ## 4. Using the zimwriterfs command 
 
-## Purpose
-
-
- **Mandatory arguments:
-    	-w, --welcome		path of default/main HTML page. The path must be relative to HTML_DIRECTORY.
-	    -I, --illustration		path of ZIM file illustration. The path must be relative to HTML_DIRECTORY and the image a 48x48 PNG.
-	    -l, --language		language code of the content in ISO639-3
-	    -t, --title		title of the ZIM file
-	    -d, --description	short description of the content
-	    -c, --creator		creator(s) of the content
-	    -p, --publisher		creator of the ZIM file itself
-
-HTML_DIRECTORY		path of the directory containing the HTML pages you want to put in the ZIM file.
-	ZIM_FILE		path of the ZIM file you want to obtain.
-
-Optional arguments:
-	    -v, --verbose		print processing details on STDOUT
-	    -h, --help		print this help
-	    -V, --version		print the version number
-	    --clusterSize	number of bytes per ZIM cluster (default: 2048Kb)
-	    -J, --threads	count of threads to utilize (default: 4)
-	    -x, --inflateHtml	try to inflate HTML files before packing (*.html, *.htm, ...)
-	    -r, --redirects		path to a TSV file containing a list of redirects (url title target_url).
-	    -j, --withoutFTIndex	don't create and add a fulltext index of the content to the ZIM.
-	    -a, --tags		tags - semicolon separated
-	    -e, --source		content source URL
-	    -n, --name		custom (version independent) identifier for the content
-	    -o, --flavour		custom (version independent) content flavour
-	    -s, --scraper		name & version of tool used to produce HTML content
-
-*The mandatory arguments are MANDATORY, you will not be able to output a file without including the required arguments. The illustration argument can be used to create an icon for your page in the Kiwix reader. The icon does not need to be an img archived from the original URL. Any PNG of your choice can be moved into the HTML_Directory and used for this purpose. You will want to save this file before attempting to process your URL in the command line.*
-
-Example:
-	
-	zimwriterfs --welcome=index.html --illustration=illustration.png --language=fra --title=foobar --description=mydescription \ --creator=Wikipedia --publisher=Kiwix ./my_project_html_directory my_project.zim
-
-## 5. Enjoying your library 
-
-# Two example commands:
+Two example commands:
 
 ### ffmprovisr
 
@@ -148,11 +90,13 @@ Example:
 
 	$ zimwriterfs --welcome=index.html --illustration=plug.png --language=en --title=cable-bible --description=offline --creator=amiaopensource --publisher=your_name amiaopensource.github.io/cable-bible cable-bible.zim
 
+## 5. Enjoying your library 
+
 ## 6. Versioning ‧₊˚🖇️✩ ₊˚📖
 Consider including semantic versioning in your file_name.zim if the URL source is a website or github repository that may be subject to contributions or updates over time. See: https://semver.org/
 
 
-## ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ᴜᴛɪʟɪᴢᴇꜱ ᴛʜᴇ ꜰᴏʟʟᴏᴡɪɴɢ ʀᴇꜱᴏᴜʀᴄᴇꜱ:
+## This project borrows from the following resources
 
 | 🔗 | 📚
 |:--------------:|:----------------------------------------------------------:|
@@ -164,15 +108,15 @@ Consider including semantic versioning in your file_name.zim if the URL source i
 [The Cable Bible](https://amiaopensource.github.io/cable-bible/) | A Guide to Cables and Connectors Used for Audiovisual Tech  
 
 
-*If you contribute a zim of an archiving resource to our repository, we will link to the original webpage here!*
+*If you contribute a zim of an archiving resource to our repository, we will link to the original webpage here and to the .zim source on our homepage!*
 
 <br>
 
 <img src="images/zim_file_white.png" width="80">   
 
-## ᴢɪʙʟɪᴏɢʀᴀᴘʜʏ
+## Zibliography
 
-*A collection of `zim` literature and related web archiving research* 
+*A collection of `.zim` literature and related web archiving research* 
        
 | 🔗 | 📚
 |:--------------:|:----------------------------------------------------------:|
@@ -184,6 +128,22 @@ Consider including semantic versioning in your file_name.zim if the URL source i
 [EOT Web Archive](https://digital.library.unt.edu/ark:/67531/metadc2201623/)| Phillips, Mark Edward; Phillips, Kristy & Alam, Sawood. Content-Based Characterization of the End of Term Web Archive, article, September 2023;  
 [LoC Web Archive Formats](https://www.loc.gov/preservation/resources/rfs/) | “Recommended Formats Statement - Resources (Preservation, Library of Congress),” Library of Congress, n.d., 
 [Xapian Delve](https://getting-started-with-xapian.readthedocs.io/en/latest/practical_example/indexing/verifying_the_index.html) | “Verifying the Index Using Xapian-Delve — Getting Started with Xapian V1.4.1.” 2018. Readthedocs.io. 2018. 
+
+## Contributors
+
++ stp305-source (Jamie) 
++ pgaston99 (Phoenyx)
++ hmr9162-droid (Hayla)
+
+We are Moving Image Archiving and Preservation (MIAP) students at NYU. During our studies, we became interested in the potential uses of `zim` for archivists and in promoting access to online tools. 
+
+<br>
+
+## Contributing
+
+You are encouraged to experiment and contribute zim or warc files to this repository of archiving resources! 
+
+Bug fixes and or other additions are also welcome. To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) then upload your file to `docs` or modify the `index.html`. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
 
 
 
