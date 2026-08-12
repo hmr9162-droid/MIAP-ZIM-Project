@@ -9,7 +9,7 @@
 [ZIM-TOOLS](https://github.com/openzim/zim-tools) | Source code 
 [Open ZIM](https://openzim.org) | Format documentation 
 
-# $\color{##90D5FF}\text{Creating a .ZIM File }$ 
+# $\color{#90D5FF}\text{Creating a .ZIM File }$ 
 
 ## 1. Check for system updates 
 
