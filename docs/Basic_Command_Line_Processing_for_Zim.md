@@ -1,6 +1,6 @@
-# $\color{#A9A9A9}\text{ZIM SUM}$ 
+# $\color{#A9A9A9}\text{ZIM SUM  ‧₊˚ ⋅  𓐐𓎩 ‧₊˚ ⋅ (๑ᵔ⤙ᵔ๑)  }$ 
 
-## Beginner-Friendly Recipes ‧₊˚ ⋅  𓐐𓎩 ‧₊˚ ⋅ 
+## Beginner-Friendly Recipes 
 .ZIM files archive simple html websites (often from Wikipedia) and preserve them for use with Kiwix, or another .ZIM reader, which allows webpage navigation $\color{#A9A9A9}\text{without being connected to the internet}$ This guide aims to simplify existing resources and make them accessible independent of experience level. All line-items from this guide are derived from the sources in the table below:
 
 | 🔗 | 📚
@@ -82,7 +82,7 @@ Example:
 	
 	zimwriterfs --welcome=index.html --illustration=illustration.png --language=fra --title=foobar --description=mydescription \ --creator=Wikipedia --publisher=Kiwix ./my_project_html_directory my_project.zim
 
-## 5. Enjoying your library (๑ᵔ⤙ᵔ๑) 
+## 5. Enjoying your library 
 
 # Two example commands:
 
