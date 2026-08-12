@@ -11,7 +11,7 @@
 * [Contributors](#Contributors)
 * [Creating a .ZIM file](#Creating-a-.ZIM-File) 
 * [Source Projects](#Source-projects)
-* [Zibliography](#Zibliography)
+* [Zibliography]([#Zibliography](https://github.com/hmr9162-droid/ZimSum#%E1%B4%A2%C9%AA%CA%99%CA%9F%C9%AA%E1%B4%8F%C9%A2%CA%80%E1%B4%80%E1%B4%98%CA%9C%CA%8F))
 
      
 ## ᴘʀᴏᴊᴇᴄᴛ ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ
