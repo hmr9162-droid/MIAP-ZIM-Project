@@ -2,26 +2,27 @@
 
 /* DOOR OR ENTRY PAGE */ 
 
-    .door {
+    .entry-background {
         color: #000066;
         background-color: #C0C0C0;
         font-family: Arial, Helvetica, sans-serif;
         font-size: 13px;
 
     }
-
+    
     .door {
-
-        display: grid;
-        place-items: center;
-        height: 100vh;
-        padding: 10px 22px;
+        border: 1px solid #ccc;
+  	    border-radius: 6px;
+  	    box-shadow: 0 5px 12px rgba(0,0,0,0.15);
+  	    font-family: sans-serif;
+  	    max-width: 1200px;
+	    margin: 0 auto;
+        display: flex;
+        padding: 75px;
         background-color: #C0C0C0;
-        color: black;
-        border: 1px solid #ddd;
+        place-items: center;
         text-decoration: underlne;
-        cursor: pointer;
-    }
+	}   
 
     .door:hover {
           background-color: #C0C0C0;
