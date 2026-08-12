@@ -6,7 +6,7 @@
 Link | Source Type
 |:--------------:|:----------------------------------------------------------:|
 [Open ZIM](https://openzim.org) | Format documentation 
-[ZIM-TOOLS](https://github.com/openzim/zim-tools) | Source code 
+[ZIM Tools](https://github.com/openzim/zim-tools) | Source code 
 [Kiwix](https://kiwix.org/en/applications/) | Desktop reader
 
 
