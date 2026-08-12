@@ -30,13 +30,13 @@ $ sudo apt upgrade
 
 ### zimwriterfs packages a directory containing:
 
-*HTML
-*CSS
-*JavaScript
-*PNGs
-*JPGs
-*GIFs
-*Video, and other web resources into a single .ZIM archive
+* HTML
+* CSS
+* JavaScript
+* PNGs
+* JPGs
+* GIFs
+* Video, and other web resources into a single .ZIM archive
 
 ### the basic argument or recipe is: 
 
