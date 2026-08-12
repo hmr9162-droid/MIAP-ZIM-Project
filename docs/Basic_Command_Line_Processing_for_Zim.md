@@ -1,12 +1,12 @@
 # ZIM SUM
 
+<br>
+
 ## 🥡 A Wholesome Guidebook 
 .ZIM files archive simple html websites (often from Wikipedia) and preserve them for use with Kiwix, or another .ZIM reader, which allows webpage navigation *without being connected internet.* This guide aims to simplify existing resources and make them accessible...independent of previous digital archiving experience. 
 
-<br>
-
-*The source material for this user guide following comes from the following:
-
+| 🔗 | 📚
+|:--------------:|:----------------------------------------------------------:|
 [Kiwix](https://kiwix.org/en/applications/) | Desktop software for archiving and accessing webpage content offline
 [ZIM-TOOLS](https://github.com/openzim/zim-tools) | Source code 
 [Open ZIM](https://openzim.org) | Format documentation 
