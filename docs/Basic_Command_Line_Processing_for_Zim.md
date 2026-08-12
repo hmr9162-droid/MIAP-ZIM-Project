@@ -28,14 +28,7 @@ $ sudo apt upgrade
 	$ sudo apt install zimwriterfs
 	$ sudo apt install libzim-dev libmagic-dev zliblg-dev libgumbo-dev libicu-dev
 
-Docker Alternative:
-    $ sudo docker pull ghcr.io/openzim/zim-tools:3.6.0
-
-## 4. Using the zimwriterfs command 
-
-## Purpose
-
-zimwriterfs packages a directory containing:
+### zimwriterfs packages a directory containing:
 
 *HTML
 *CSS
@@ -45,8 +38,16 @@ zimwriterfs packages a directory containing:
 *GIFs
 *Video, and other web resources into a single .ZIM archive
 
-zimwriterfs [mandatory arguments] [optional arguments] HTML_DIRECTORY ZIM_FILE
+### the basic argument or recipe is: 
 
+zimwriterfs + [mandatory arguments] + [optional arguments] + HTML_DIRECTORY + [Name_for_your_ZIM_FILE]
+
+Docker Alternative:
+    $ sudo docker pull ghcr.io/openzim/zim-tools:3.6.0
+
+## 4. Using the zimwriterfs command 
+
+## Purpose
 
 
  **Mandatory arguments:
@@ -95,4 +96,4 @@ Example:
 	$ zimwriterfs --welcome=index.html --illustration=plug.png --language=en --title=cable-bible --description=offline --creator=amiaopensource --publisher=your_name amiaopensource.github.io/cable-bible cable-bible.zim
 
 ## 6. Versioning ‧₊˚🖇️✩ ₊˚📖
-    Consider including semantic versioning in your file_name.zim if the URL source is a website or github repository that may be subject to contributions or updates over time. See: https://semver.org/
+Consider including semantic versioning in your file_name.zim if the URL source is a website or github repository that may be subject to contributions or updates over time. See: https://semver.org/
