@@ -9,7 +9,24 @@
         font-size: 13px;
 
     }
-    
+
+	.table {
+   		display: table;
+    	box-sizing: border-box;
+    	border-collapse: separate;
+    	text-indent: initial;
+    	unicode-bidi: isolate;
+    	line-height: normal;
+    	font-weight: normal;
+    	font-size: medium;
+    	font-style: normal;
+    	color: -internal-quirk-inherit;
+    	text-align: start;
+    	border-spacing: 2px;
+    	white-space: normal;
+    	font-variant: normal;
+}
+
     .door {
         border: 1px solid #ccc;
   	    border-radius: 6px;
@@ -42,6 +59,37 @@
     }
 
 /* MAIN PAGE */
+/* title header and logo design */ 
+
+    .site-header { 
+        position: absolute; 
+        top: 10px; 
+        left: 15px; 
+        right: 15px; 
+        width: 98%; 
+        display: flex; 
+        justify-content: space-between; 
+        align-items: flex-start; 
+        margin: 2px; 
+		padding: 20px; 
+    } 
+
+    .site-header img { 
+        display: block; 
+        height: auto; 
+			
+    } 
+
+    .logo-left { 
+  	   max-width: 20vw;
+       height: auto;
+
+    } 
+
+    .logo-right { 
+  	   max-width: 20vw;
+       height: auto;
+    }
 
 /* body */
 
@@ -58,25 +106,6 @@ body {
     padding: 30px; 
     box-sizing: border-box; 
 
-}
-
-/* home button */ 
-
-.table {
-    display: table;
-    box-sizing: border-box;
-    border-collapse: separate;
-    text-indent: initial;
-    unicode-bidi: isolate;
-    line-height: normal;
-    font-weight: normal;
-    font-size: medium;
-    font-style: normal;
-    color: -internal-quirk-inherit;
-    text-align: start;
-    border-spacing: 2px;
-    white-space: normal;
-    font-variant: normal;
 }
 
 /* MAIN WEBSITE PAGE */
