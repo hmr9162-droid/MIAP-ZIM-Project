@@ -7,7 +7,7 @@
 
 * [Home](hmr9162-droid.github.io/ZimSum/)
 * [Project Description](#Project-description)
-* [Why .ZIM?](#Why-zim?)
+* [Why .ZIM?](#Why `.Zim`?)
 * [Contributors](#Contributors)
 * [Creating a .ZIM file](#Creating-a-.ZIM-File) 
 * [Source Projects](#Source-projects)
@@ -18,7 +18,7 @@
 
 <br>  
 
-## Why `.zim`?
+## Why `.Zim`?
 
 *The preservation of web resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. The `.zim` format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, `.zim` enables fulltext search; thus, any personal library can function like an offline search engine.* 
 
