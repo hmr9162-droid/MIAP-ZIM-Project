@@ -1,11 +1,12 @@
 # ZIM SUM
 
-*The source material for the following comes from the openZim project https://github.com/openzim*
+## A .ZIM Beginner Guide 
+.ZIM files archive simple html websites, often Wikipedia, and preserve them for use offline with Kiwix, or another .ZIM reader which allow webpage navigation without being connected internet. This guide aims to simplify existing resources and make them accessible...independent of previous digital archiving experience. 
 
-.ZIM files archive simple html websites, often Wikipedia, and preserve them for use offline. Kiwix is a free and open source .ZIM reader which can be used to navigate webpages without being connected to the internet.
+<br>
 
-| 🔗 | 📚
-|:--------------:|:----------------------------------------------------------:|
+*The source material for this user guide following comes from the following:
+
 [Kiwix](https://kiwix.org/en/applications/) | Desktop software for archiving and accessing webpage content offline
 [ZIM-TOOLS](https://github.com/openzim/zim-tools) | Source code 
 [Open ZIM](https://openzim.org) | Format documentation 
