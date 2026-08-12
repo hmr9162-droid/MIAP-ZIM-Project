@@ -28,15 +28,15 @@ $ sudo apt upgrade
 	$ sudo apt install zimwriterfs
 	$ sudo apt install libzim-dev libmagic-dev zliblg-dev libgumbo-dev libicu-dev
 
-### zimwriterfs packages a directory containing:
+### zimwriterfs packages together a webpages key ingredients:
 
-* HTML
-* CSS
-* JavaScript
-* PNGs
-* JPGs
-* GIFs
-* Video, and other web resources into a single .ZIM archive
++ HTML
++ CSS
++ JavaScript
++ PNGs
++ JPGs
++ GIFs
++ Video, and other web resources into a single .ZIM archive
 
 ### the basic argument or recipe is: 
 
