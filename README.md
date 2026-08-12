@@ -6,17 +6,13 @@
 
 
 * [Home](hmr9162-droid.github.io/ZimSum/)
-* [Project Description](#Project-description)
 * [Why .ZIM?](#Why-ZIM?)
 * [Creating a .ZIM file](#Creating-a-.ZIM-File) 
 * [Source Projects](#Source-projects)
 * [Zibliography](https://github.com/hmr9162-droid/ZimSum#%E1%B4%A2%C9%AA%CA%99%CA%9F%C9%AA%E1%B4%8F%C9%A2%CA%80%E1%B4%80%E1%B4%98%CA%9C%CA%8F)
 * [Contributors & Contributing](#Contributors)
+* [License](#License)
 
-     
-## Project Description
-
-<br>  
 
 ## Why ZIM?
 
@@ -156,5 +152,6 @@ You are encouraged to experiment and contribute zim or warc files to this reposi
 
 Bug fixes and or other additions are also welcome. To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) then upload your file to `docs` or modify the `index.html`. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
 
+## License
 
 
