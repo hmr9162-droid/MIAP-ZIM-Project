@@ -1,7 +1,7 @@
 # $\color{#A9A9A9}\text{ZIM SUM  ‧₊˚ ⋅  𓐐𓎩 ‧₊˚ ⋅ (๑ᵔ⤙ᵔ๑)  }$ 
 
 ## Quick, Tasty, Beginner-Friendly Recipes 
-.ZIM files archive webpages and preserve them for use with Kiwix, or another .ZIM reader, which simulate web browsing $\color{#A9A9A9}\text{without being connected to the internet.}$ This guide simplifies existing resources and make them accessible independent of your experience in the kitchen! This guide utilizes sources in the table below:
+.ZIM files archive webpages and preserve them for use with Kiwix, or another .ZIM reader, which simulate web browsing $\color{#A9A9A9}\text{without being connected to the internet.}$ This guide simplifies existing resources compiled for you in the table below:
 
 Link | Source Type
 |:--------------:|:----------------------------------------------------------:|
