@@ -17,7 +17,7 @@
 
 <br>
 
-<img src="images/zim_file_white.png" width="100">     
+<img src="images/zim_file_white.png" width="60">     
 
 ## ᴡʜʏ ᴢɪᴍ?
 
