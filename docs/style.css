@@ -11,15 +11,16 @@
     }
 
     .door {
-      display: inline-block;
-      justify: center;
-      align-items: center;
-      padding: 10px 22px;
-      background-color: #C0C0C0;
-      color: black;
-      border: 1px solid #ddd;
-      text-decoration: underlne;
-      cursor: pointer;
+
+        display: grid;
+        place-items: center;
+        height: 100vh;
+        padding: 10px 22px;
+        background-color: #C0C0C0;
+        color: black;
+        border: 1px solid #ddd;
+        text-decoration: underlne;
+        cursor: pointer;
     }
 
 .door:hover {
