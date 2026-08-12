@@ -23,22 +23,22 @@
         cursor: pointer;
     }
 
-.door:hover {
-  background-color: #C0C0C0;
-}
+    .door:hover {
+          background-color: #C0C0C0;
+    }
 
-.door a:visited { 
+    .door a:visited { 
+        color: #0000cc; 
+    } 
+
+    .door a:hover { 
     color: #0000cc; 
-} 
 
-.door a:hover { 
-    color: #0000cc; 
+    } 
 
-} 
-
-.door a:active { 
-    color: #0000cc; 
-}
+    .door a:active { 
+        color: #0000cc; 
+    }
 
 /* MAIN PAGE */
 
