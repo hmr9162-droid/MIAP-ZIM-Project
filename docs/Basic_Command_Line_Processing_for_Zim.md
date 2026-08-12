@@ -1,7 +1,7 @@
 # ZIM SUM
 
 ## 🥡 A Wholesome Guidebook 
-.ZIM files archive simple html websites (often from Wikipedia) and preserve them for use with Kiwix, or another .ZIM reader, which allows webpage navigation *without being connected internet.* This guide aims to simplify existing resources and make them accessible independent of experience level. 
+.ZIM files archive simple html websites (often from Wikipedia) and preserve them for use with Kiwix, or another .ZIM reader, which allows webpage navigation *without being connected internet.* This guide aims to simplify existing resources and make them accessible independent of experience level. All line-items from this guide are derived from the sources below:
 
 | 🔗 | 📚
 |:--------------:|:----------------------------------------------------------:|
