@@ -2,7 +2,7 @@
 # $\color{#A9A9A9}\text{ZIM SUM  ‧₊˚ ⋅  𓐐𓎩 ‧₊˚ ⋅ (๑ᵔ⤙ᵔ๑)  }$ 
 
 ## Quick, Tasty, Beginner-Friendly Recipes 
-.ZIM files archive webpages and preserve them for use with Kiwix, or another .ZIM reader, which simulate web browsing $\color{#A9A9A9}\text{without being connected to the internet.}$ You can archive the web for offline use regardless of your experience $\color{#A9A9A9}\text{in the kitchen.}$ 
+.ZIM is a lesser known container format, which can be used to archive archive webpages and preserve them for use with Kiwix, or another .ZIM reader, which simulate web browsing $\color{#A9A9A9}\text{without being connected to the internet.}$ You can archive the web for offline use regardless of your experience $\color{#A9A9A9}\text{in the kitchen.}$ 
 
 
 * [Home](hmr9162-droid.github.io/ZimSum/)
