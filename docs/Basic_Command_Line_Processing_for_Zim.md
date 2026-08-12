@@ -1,6 +1,6 @@
 # ZIM SUM
 
-## Your wholesome, beginner friendly, command-line guide 🥡
+## Welcome to our wholesome, beginner friendly, .ZIM creation guide 🥡
 .ZIM files archive simple html websites, often Wikipedia, and preserve them for use offline with Kiwix, or another .ZIM reader which allow webpage navigation without being connected internet. This guide aims to simplify existing resources and make them accessible...independent of previous digital archiving experience. 
 
 <br>
