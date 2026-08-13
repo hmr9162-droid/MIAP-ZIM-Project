@@ -112,10 +112,7 @@ Remember, the web evolves over time! Include [semantic versioning](https://semve
 
 <br>
 
-<br>
-<br>
-
-<img src="images/zim_file_white.png" width="60">   
+<img src="images/zim_file_white.png" width="100">   
 
 ## Why ZIM?
 
