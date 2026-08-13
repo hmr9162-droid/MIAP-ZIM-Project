@@ -40,7 +40,7 @@ Anyone who can enter a [command](https://www.youtube.com/watch?v=uwAqEzhyjtw&t=3
 * [Why .ZIM?](#Why-ZIM?)
 * [Source Projects](#Source-projects)
 * [Zibliography](https://github.com/hmr9162-droid/ZimSum#%E1%B4%A2%C9%AA%CA%99%CA%9F%C9%AA%E1%B4%8F%C9%A2%CA%80%E1%B4%80%E1%B4%98%CA%9C%CA%8F)
-* [Contributors & Contributing](#Contributors)
+* [Contributors](#Contributors)
 * [License](#License)
 
 
