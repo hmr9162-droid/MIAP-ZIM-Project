@@ -19,8 +19,6 @@ JPGs | Joint Photographic Experts Group
 GIFs | Graphics Interchange Format
 MPEGs | Moving Picture Experts Group 
 
-<br>
-
 ...using a basic recipe like this: 
 
 	$ zimwriterfs + [mandatory arguments] + [optional arguments] + HTML_DIRECTORY + [Name_for_your_delicious_new_zim_file]
