@@ -16,7 +16,7 @@ If you're reading this there's a good chance you've unzipped a .ZIP file. If you
 
 ## Why ZIM?
 
-The preservation of web resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. The `.zim` format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, `.zim` enables fulltext search; thus, any personal library can function like an offline search engine. 
+The `.zim` format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, `.zim` enables fulltext search; thus, any personal library can function like an offline search engine. 
 
 Together, the [Kiwix](https://github.com/kiwix) and [OpenZim](https://github.com/openzim) projects have utilized the format to make resources like Wikipedia, Project Gutenberg, Stack Exchange and Ask Ubuntu, accesible and searchable. These open source tools have led to many indvidual archive projects. In 2025, a `.zim` of [cdc.gov](https://archive.org/details/www.cdc.gov_en_all_novid_2025-01) was contributed to Internet Archive 🏛.
  
@@ -32,7 +32,7 @@ Some other considerations include:
 + archival backups 
 + providing research or access copies of archived sites
 
-Finally, as archivists, our project also aims to highlight the strengths and weaknesses of the `.zim` container format, compared to `.warc`, the existing web archiving standard. We've run crawls on [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/), an FFmpeg resource, and archived the site as both ffmprovisr.zim and ffmprovisr.warc. By comparing use-cases and key features, archivists can make stronger arguments for utilizing the `.zim` format for their projects.
+The preservation of web resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. Our project also aims to highlight the strengths and weaknesses of the `.zim` container format, compared to `.warc`, the existing web archiving standard. We've run crawls on [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/), an FFmpeg resource, and archived the site as both ffmprovisr.zim and ffmprovisr.warc. By comparing use-cases and key features, archivists can make stronger arguments for utilizing the `.zim` format for their projects.
 
 <br>
 
