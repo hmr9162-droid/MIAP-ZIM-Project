@@ -74,6 +74,8 @@ and,
 
 	$ sudo apt install zimwriterfs
 
+<br>
+
 `zimwriterfs` does the assembly of a webpages key ingredients, including... 
 
 | 📖 | 🥣 | 
@@ -86,11 +88,13 @@ JPGs | Joint Photographic Experts Group
 GIFs | Graphics Interchange Format
 MPEGs | Moving Picture Experts Group 
 
+<br>
 
 ...using a basic recipe like this: 
 
 	$ zimwriterfs + [mandatory arguments] + [optional arguments] + HTML_DIRECTORY + [Name_for_your_delicious_new_zim_file]
-	
+
+<br>
 
 Docker can also be used to compile all of the .ZIM tools in one command.
 
