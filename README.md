@@ -9,7 +9,7 @@ If you're reading this there's a good chance you've unzipped a `.zip` file. If y
 
 `.zim` bundles up webpages for re-access with [Kiwix](https://github.com/kiwix), or other `.zim` readers, to simulate hyperlinked web browsing $\color{#A9A9A9}\text{without being connected to the internet.}$ 
 
-Anyone can archive the web for offline use regardless of their experience $\color{#A9A9A9}\text{in the kitchen.}$ 
+Anyone can archive the web for offline use, regardless of their experience in the $\color{#A9A9A9}\text{kitchen.}$ 
 
 
 * [🚀](hmr9162-droid.github.io/ZimSum/)
