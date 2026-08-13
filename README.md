@@ -108,7 +108,6 @@ Remember, the web evolves over time! Include [semantic versioning](https://semve
 
 -ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
-<br>
 
 <br>
 
