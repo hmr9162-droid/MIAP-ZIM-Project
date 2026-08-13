@@ -50,9 +50,6 @@ open Windows terminal -> [win] + [r] then, [wt]
 Then run: 
 
 	$ sudo apt update
-
-and, 
-
 	$ sudo apt upgrade
 
 ## 2. Install Dependencies  🔥 ⊹₊
