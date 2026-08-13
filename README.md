@@ -50,7 +50,7 @@ and,
 
 	$ sudo apt upgrade
 
-## 2. Install Dependencies ⊹₊🔥
+## 2. Install Dependencies 🔥 ⊹₊
 	
 	$ sudo snap install docker
 	$ sudo apt install pkgconf
