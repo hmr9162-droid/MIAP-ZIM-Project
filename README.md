@@ -124,6 +124,9 @@ Two example commands:
 Remember, the web evolves over time! Include [semantic versioning](https://semver.org/) in your file_name.zim to track updates in your new library. That way you can always go back to the original.   
 
 
+<br>
+<br>
+
 ## This project borrows from the following resources
 
 | 🔗 | 📚
