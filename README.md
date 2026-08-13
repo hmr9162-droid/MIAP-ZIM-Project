@@ -7,10 +7,33 @@ v2.0.0 pre-re
 ## Quick, Tasty, Beginner-Friendly Recipes 
 If you're reading this there's a good chance you've unzipped a `.zip` file. If you are more familiar with internet archiving, you'll also recognize `.warc` which nests web material for re-access through tools like the Way Back Machine. As with these, `.zim` is a $\color{#A9A9A9}\text{container format.}$ 
 
-`.zim` bundles up webpages for re-access with [Kiwix](https://github.com/kiwix), or other `.zim` readers, to simulate hyperlinked web browsing $\color{#A9A9A9}\text{without being connected to the internet.}$ 
+`zimwriterfs` does the assembly of a webpages key ingredients, including... 
+
+| 📖 | 🥣 | 
+|:--------------:|:----------------------------------------------------------:|
+HTML | Hypertext Markup Language 
+CSS | Cascading Style Sheets
+JS | JavaScript
+PNGs | Portable Network Graphics
+JPGs | Joint Photographic Experts Group
+GIFs | Graphics Interchange Format
+MPEGs | Moving Picture Experts Group 
+
+<br>
+
+...using a basic recipe like this: 
+
+	$ zimwriterfs + [mandatory arguments] + [optional arguments] + HTML_DIRECTORY + [Name_for_your_delicious_new_zim_file]
+
+<br>
+
+Then your `.zim` stores tge webpage for re-access with [Kiwix](https://github.com/kiwix), or other `.zim` readers, to simulate hyperlinked web browsing $\color{#A9A9A9}\text{without being connected to the internet.}$ 
+
 
 Anyone can archive the web for offline use, regardless of their experience in the $\color{#A9A9A9}\text{kitchen ‧₊˚.}$ 
 
+<br>
+<br>
 
 * [🚀](hmr9162-droid.github.io/ZimSum/)
 * [Creating a .ZIM file](#Creating-a-.ZIM-File)
@@ -51,26 +74,6 @@ Then run:
 ## 3. Install zimwriterfs  🥕
 
 	$ sudo apt install zimwriterfs
-
-<br>
-
-`zimwriterfs` does the assembly of a webpages key ingredients, including... 
-
-| 📖 | 🥣 | 
-|:--------------:|:----------------------------------------------------------:|
-HTML | Hypertext Markup Language 
-CSS | Cascading Style Sheets
-JS | JavaScript
-PNGs | Portable Network Graphics
-JPGs | Joint Photographic Experts Group
-GIFs | Graphics Interchange Format
-MPEGs | Moving Picture Experts Group 
-
-<br>
-
-...using a basic recipe like this: 
-
-	$ zimwriterfs + [mandatory arguments] + [optional arguments] + HTML_DIRECTORY + [Name_for_your_delicious_new_zim_file]
 
 <br>
 
