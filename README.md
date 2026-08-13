@@ -123,9 +123,9 @@ Two example commands:
 ## 8. Versioning 🖇️
 Remember, the web evolves over time! Include [semantic versioning](https://semver.org/) in your file_name.zim to track updates in your new library. That way you can always go back to the original.   
 
-
 <br>
--ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+<br>
+-ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
 
 ## This project borrows from the following resources
