@@ -43,7 +43,7 @@ Lastly, the preservation of web resources, like a Github repository, for offline
 
 # $\color{#A9A9A9}\text{Creating a .ZIM File }$ 
 
-## 1. Check for system updates 🛒 ⋆˙⟡
+## 1. Check for system updates  🛒 ⋆˙⟡
 
 open MacOS terminal -> [command] + [space]  
 open Windows terminal -> [win] + [r] then, [wt]
@@ -55,14 +55,14 @@ and,
 
 	$ sudo apt upgrade
 
-## 2. Install Dependencies 🔥 ⊹₊
+## 2. Install Dependencies  🔥 ⊹₊
 	
 	$ sudo snap install docker
 	$ sudo apt install pkgconf
 	$ sudo apt install googletest
 	$ sudo apt install python3-pip meson
 
-## 3. Install .ZIM tools 🥢 ♡ *.ﾟ
+## 3. Install .ZIM tools  🥢 ♡ *.ﾟ
 	
 	$ sudo apt install libzim-dev 
 	$ sudo apt install libmagic-dev 
@@ -70,7 +70,7 @@ and,
 	$ sudo apt install libgumbo-dev 
 	$ sudo apt install libicu-dev
 
-## 3. Install zimwriterfs 🥕‧ 𖦹°‧₊
+## 3. Install zimwriterfs  🥕‧ 𖦹°‧₊
 
 	$ sudo apt install zimwriterfs
 
