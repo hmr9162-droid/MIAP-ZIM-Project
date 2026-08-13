@@ -108,6 +108,8 @@ Remember, the web evolves over time! Include [semantic versioning](https://semve
 <br>
 -ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
+<img src="images/zim_file_white.png" width="80">   
+
 ## Why ZIM?
 
 The `.zim` format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, `.zim` enables fulltext search; thus, any personal library can function like an offline search engine. 
@@ -146,8 +148,6 @@ Lastly, the preservation of web resources, like a Github repository, for offline
 *If you contribute a `.zim` of an archiving resource, we will link to the original webpage here and to the `.zim` source on our [homepage](hmr9162-droid.github.io/ZimSum)!*
 
 <br>
-
-<img src="images/zim_file_white.png" width="80">   
 
 ## Zibliography
 
