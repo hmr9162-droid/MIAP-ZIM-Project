@@ -25,7 +25,7 @@ MPEGs | Moving Picture Experts Group
 
 <br>
 
-Then, a `.zim` stores the webpage for re-access with [Kiwix](https://github.com/kiwix), or other `.zim` readers, to simulate hyperlinked web browsing $\color{#A9A9A9}\text{without being connected to the internet.}$ 
+Then! A `.zim` stores the webpage for re-access with [Kiwix](https://github.com/kiwix), or other `.zim` readers, to simulate hyperlinked web browsing $\color{#A9A9A9}\text{without being connected to the internet.}$ 
 
 <br>
 
