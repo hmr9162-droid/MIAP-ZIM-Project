@@ -62,7 +62,7 @@ and,
 	$ sudo apt install googletest
 	$ sudo apt install python3-pip meson
 
-## 3. Install .ZIM tools ⟡₊˚🥢 🥣 🥄 ♡ *.ﾟ
+## 3. Install .ZIM tools ⟡₊˚🥢 ♡ 🥄 *.ﾟ
 	
 	$ sudo apt install libzim-dev 
 	$ sudo apt install libmagic-dev 
@@ -70,13 +70,22 @@ and,
 	$ sudo apt install libgumbo-dev 
 	$ sudo apt install libicu-dev
 
-and, 
+## 3. Install zimwriterfs  ‧₊˚ ⋅🥕‧ 𖦹°‧₊
 
 	$ sudo apt install zimwriterfs
 
-#zimwriterfs# packages together a webpage's key ingredients ‧₊˚ ⋅🥕‧ 𖦹°‧₊
+zimwriterfs does the assembly of these key web ingredients, for example:
 
-+ HTML + CSS + JavaScript + PNGs + JPGs + GIFs + Video 
+| 📖 | 🥣 | 
+|:--------------:|:----------------------------------------------------------:|
+HTML | Hypertext Markup Language 
+CSS | Cascading Style Sheets
+JS | JavaScript
+PNGs | Portable Network Graphics
+JPGs | Joint Photographic Experts Group
+GIFs | Graphics Interchange Format
+MPEGs | Moving Picture Experts Group 
+
 
 using the recipe below 
 
