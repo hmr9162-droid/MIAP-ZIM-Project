@@ -55,14 +55,14 @@ Then run:
 	$ sudo apt update
 	$ sudo apt upgrade
 
-## 2. Install Dependencies  🔥 ⊹₊
-	
+## 2. Install Dependencies  🔥 
+
 	$ sudo snap install docker
 	$ sudo apt install pkgconf
 	$ sudo apt install googletest
 	$ sudo apt install python3-pip meson
 
-## 3. Install .ZIM tools  🥢 ♡ 
+## 3. Install .ZIM tools  🥢  
 	
 	$ sudo apt install libzim-dev 
 	$ sudo apt install libmagic-dev 
@@ -70,7 +70,7 @@ Then run:
 	$ sudo apt install libgumbo-dev 
 	$ sudo apt install libicu-dev
 
-## 3. Install zimwriterfs  🥕 𖦹°₊
+## 3. Install zimwriterfs  🥕
 
 	$ sudo apt install zimwriterfs
 
@@ -120,7 +120,7 @@ Two example commands:
 
 ## 7. Sharing your library 🥡
 
-## 8. Versioning ‧₊˚🖇️✩ ₊˚📖
+## 8. Versioning 🖇️
 Remember, the web evolves over time! Include [semantic versioning](https://semver.org/) in your file_name.zim to track updates in your new library. That way you can always go back to the original.   
 
 
