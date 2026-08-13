@@ -2,7 +2,7 @@
 # $\color{#A9A9A9}\text{ZIM SUM  ‧₊˚ ⋅  𓐐𓎩 ‧₊˚ ⋅ (๑ᵔ⤙ᵔ๑)  }$ 
 
 ## Quick, Tasty, Beginner-Friendly Recipes 
-If you're reading this there's a good chance you've unzipped a `.zip` file. If you are more familiar with internet archiving, you'll also recognize `.warc` which bundles up web material for re-access through tools like the Way Back Machine. Just like these, `.zim` is a $\color{#A9A9A9}\text{container format.}$ It bundles up webpages for re-access with Kiwix, or other `.zim` reader, to simulate web browsing $\color{#A9A9A9}\text{without being connected to the internet.}$ Anyone can archive the web for offline use regardless of their experience $\color{#A9A9A9}\text{in the kitchen.}$ 
+If you're reading this there's a good chance you've unzipped a `.zip` file. If you are more familiar with internet archiving, you'll also recognize `.warc` which bundles up web material for re-access through tools like the Way Back Machine 🏛. Just like these, `.zim` is a $\color{#A9A9A9}\text{container format.}$ It bundles up webpages for re-access with [Kiwix](https://github.com/kiwix), or other `.zim` reader, to simulate web browsing $\color{#A9A9A9}\text{without being connected to the internet.}$ Anyone can archive the web for offline use regardless of their experience $\color{#A9A9A9}\text{in the kitchen.}$ 
 
 This guide is here to help!
 
@@ -20,7 +20,7 @@ This guide is here to help!
 
 The `.zim` format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, `.zim` enables fulltext search; thus, any personal library can function like an offline search engine. 
 
-Together, the [Kiwix](https://github.com/kiwix) and [OpenZim](https://github.com/openzim) projects have utilized the format to make resources like Wikipedia, Project Gutenberg, Stack Exchange and Ask Ubuntu, accesible and searchable. These open source tools have led to many indvidual archive projects. In 2025, a `.zim` of [cdc.gov](https://archive.org/details/www.cdc.gov_en_all_novid_2025-01) was contributed to Internet Archive 🏛.
+Together, the [Kiwix](https://github.com/kiwix) and [OpenZim](https://github.com/openzim) projects have utilized the format to make resources like Wikipedia, Project Gutenberg, Stack Exchange and Ask Ubuntu, accesible and searchable. These open source tools have led to many indvidual archive projects. In 2025, a `.zim` of [cdc.gov](https://archive.org/details/www.cdc.gov_en_all_novid_2025-01) was contributed to Internet Archive.
  
 By compiling a URL source into an offline-accessible format, `.zim` may be particularly useful for archivists and librarians encountering:
 
