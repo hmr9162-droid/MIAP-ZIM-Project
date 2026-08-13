@@ -8,8 +8,6 @@ If you're reading this there's a good chance you've unzipped a `.zip` file. If y
 
 Anyone can archive the web for offline use regardless of their experience $\color{#A9A9A9}\text{in the kitchen.}$ 
 
-This guide is here to help!
-
 
 * [Homepage](hmr9162-droid.github.io/ZimSum/)
 * [Why .ZIM?](#Why-ZIM?)
