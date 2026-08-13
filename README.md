@@ -35,6 +35,7 @@ Some other considerations include:
 
 + archival backups 
 + providing research or access copies of archived sites
++ remote educational tools, kits, and workshops! 
 
 The preservation of web resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. Our project also aims to highlight the strengths and weaknesses of the `.zim` container format, compared to `.warc`, the existing web archiving standard. We've run crawls on [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/), an FFmpeg resource, and archived the site as both ffmprovisr.zim and ffmprovisr.warc. By comparing use-cases and key features, archivists can make stronger arguments for utilizing the `.zim` format for their projects.
 
