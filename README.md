@@ -167,11 +167,9 @@ We are Moving Image Archiving and Preservation (MIAP) students at NYU. During ou
 
 <br>
 
-## Contributing
+You are encouraged to experiment and contribute zim or warc files to the repository of resources for others to download.  
 
-You are encouraged to experiment and contribute zim or warc files to this repository of archiving resources! 
-
-Bug fixes and or other additions are also welcome. To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) then upload your file to `docs` or modify the `index.html`. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
+Bug fixes and or other additions are also welcome. To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) then upload your file to docs/resources or modify the main.html. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
 
 ## License
 
