@@ -62,7 +62,7 @@ and,
 	$ sudo apt install googletest
 	$ sudo apt install python3-pip meson
 
-## 3. Install .ZIM tools ⟡₊˚🥢 ♡ 🥄 *.ﾟ
+## 3. Install .ZIM tools ⟡₊˚🥢 ♡ *.ﾟ
 	
 	$ sudo apt install libzim-dev 
 	$ sudo apt install libmagic-dev 
