@@ -111,7 +111,7 @@ Two example commands:
 
 	$ zimwriterfs --welcome=index.html --illustration=plug.png --language=en --title=cable-bible --description=offline --creator=amiaopensource --publisher=your_name amiaopensource.github.io/cable-bible cable-bible.zim
 
-## 5. Enjoying your library 
+## 5. Enjoying your library  (｡ᴖ ⤙ ᴖ)‎ ˚₊‧🥄
 
 ## 6. Sharing your library 🥡
 
