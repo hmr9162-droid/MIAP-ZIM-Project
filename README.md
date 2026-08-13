@@ -115,8 +115,8 @@ Two example commands:
 
 ## 6. Sharing your library 🥡
 
-## 6. Versioning ‧₊˚🖇️✩ ₊˚📖
-Consider including semantic versioning in your file_name.zim if the URL source is a website or github repository that may be subject to contributions or updates over time. See: https://semver.org/
+## 7. Versioning ‧₊˚🖇️✩ ₊˚📖
+Remember, the web evolves over time! Include [semantic versioning](https://semver.org/) in your file_name.zim to track updates in your new library. That way you can always go back to the original.   
 
 
 ## This project borrows from the following resources
