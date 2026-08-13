@@ -1,4 +1,7 @@
 
+v2.0.0 pre-re
+
+
 # $\color{#A9A9A9}\text{ZIM SUM  ‧₊˚ ⋅  𓐐𓎩 ‧₊˚ ⋅ (๑ᵔ⤙ᵔ๑)  }$ 
 
 ## Quick, Tasty, Beginner-Friendly Recipes 
@@ -99,7 +102,9 @@ Docker can also be used to compile all of the .ZIM tools in one command.
 
 <br>
 
-## 4. Assembling an argument with zimwriterfs  𓐐𓎩 ⋆˙⟡ 𓌉◯𓇋 ⟡ ₊
+## 4. Prep Time 
+
+## 5. Assembling an argument with zimwriterfs  𓐐𓎩 ⋆˙⟡ 𓌉◯𓇋 ⟡ ₊
 
 Two example commands:
 
@@ -111,11 +116,11 @@ Two example commands:
 
 	$ zimwriterfs --welcome=index.html --illustration=plug.png --language=en --title=cable-bible --description=offline --creator=amiaopensource --publisher=your_name amiaopensource.github.io/cable-bible cable-bible.zim
 
-## 5. Enjoying your library  (｡ᴖ ⤙ ᴖ)‎ ˚₊‧🥄
+## 6. Enjoying your library  (｡ᴖ ⤙ ᴖ)‎ ˚₊‧🥄
 
-## 6. Sharing your library 🥡
+## 7. Sharing your library 🥡
 
-## 7. Versioning ‧₊˚🖇️✩ ₊˚📖
+## 8. Versioning ‧₊˚🖇️✩ ₊˚📖
 Remember, the web evolves over time! Include [semantic versioning](https://semver.org/) in your file_name.zim to track updates in your new library. That way you can always go back to the original.   
 
 
