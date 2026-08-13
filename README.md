@@ -125,7 +125,7 @@ Remember, the web evolves over time! Include [semantic versioning](https://semve
 
 <br>
 <br>
--ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+-ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
 
 ## This project borrows from the following resources
