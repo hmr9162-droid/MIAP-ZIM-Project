@@ -13,36 +13,14 @@ Anyone can archive the web for offline use, regardless of their experience in th
 
 
 * [🚀](hmr9162-droid.github.io/ZimSum/)
+* [Creating a .ZIM file](#Creating-a-.ZIM-File)
 * [Why .ZIM?](#Why-ZIM?)
-* [Creating a .ZIM file](#Creating-a-.ZIM-File) 
 * [Source Projects](#Source-projects)
 * [Zibliography](https://github.com/hmr9162-droid/ZimSum#%E1%B4%A2%C9%AA%CA%99%CA%9F%C9%AA%E1%B4%8F%C9%A2%CA%80%E1%B4%80%E1%B4%98%CA%9C%CA%8F)
 * [Contributors & Contributing](#Contributors)
 * [License](#License)
 
 
-## Why ZIM?
-
-The `.zim` format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, `.zim` enables fulltext search; thus, any personal library can function like an offline search engine. 
-
-Together, the [Kiwix](https://github.com/kiwix) and [OpenZim](https://github.com/openzim) projects have utilized the format to make resources like Wikipedia, Project Gutenberg, Stack Exchange and Ask Ubuntu, accesible and searchable. These open source tools have led to many indvidual archive projects. In 2025, a `.zim` of [cdc.gov](https://archive.org/details/www.cdc.gov_en_all_novid_2025-01) was contributed to Internet Archive.
- 
-By compiling a URL source into an offline-accessible format, `.zim` may be particularly useful for archivists and librarians encountering:
-
-+ little or no internet access 
-+ limited electricity (online browsing drains power!) 
-+ disaster-related restrictions 
-+ the censorship or deletion of online materials
-
-Some other considerations include: 
-
-+ archival backups 
-+ providing research or access copies of archived sites
-+ remote educational tools, kits, and workshops! 
-
-Lastly, the preservation of web resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. Our project further aims to highlight the strengths and weaknesses of the `.zim` container format, compared to `.warc`, the existing web archiving standard. We've run crawls on [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/), an FFmpeg resource, and archived the site as both ffmprovisr.zim and ffmprovisr.warc. By comparing use-cases and key features, archivists can make stronger arguments for utilizing the `.zim` format for their projects.
-
-<br>
 
 # $\color{#A9A9A9}\text{Creating a .ZIM File }$ 
 
@@ -127,6 +105,28 @@ Remember, the web evolves over time! Include [semantic versioning](https://semve
 <br>
 -ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
+## Why ZIM?
+
+The `.zim` format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, `.zim` enables fulltext search; thus, any personal library can function like an offline search engine. 
+
+Together, the [Kiwix](https://github.com/kiwix) and [OpenZim](https://github.com/openzim) projects have utilized the format to make resources like Wikipedia, Project Gutenberg, Stack Exchange and Ask Ubuntu, accesible and searchable. These open source tools have led to many indvidual archive projects. In 2025, a `.zim` of [cdc.gov](https://archive.org/details/www.cdc.gov_en_all_novid_2025-01) was contributed to Internet Archive.
+ 
+By compiling a URL source into an offline-accessible format, `.zim` may be particularly useful for archivists and librarians encountering:
+
++ little or no internet access 
++ limited electricity (online browsing drains power!) 
++ disaster-related restrictions 
++ the censorship or deletion of online materials
+
+Some other considerations include: 
+
++ archival backups 
++ providing research or access copies of archived sites
++ remote educational tools, kits, and workshops! 
+
+Lastly, the preservation of web resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. Our project further aims to highlight the strengths and weaknesses of the `.zim` container format, compared to `.warc`, the existing web archiving standard. We've run crawls on [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/), an FFmpeg resource, and archived the site as both ffmprovisr.zim and ffmprovisr.warc. By comparing use-cases and key features, archivists can make stronger arguments for utilizing the `.zim` format for their projects.
+
+<br>
 
 ## This project incorporates the following resources:
 
