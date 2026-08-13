@@ -102,7 +102,7 @@ Docker can also be used to compile all of the .ZIM tools in one command.
 
 <br>
 
-## 4. Prep Time 
+## 4. Prep Time ⏰
 
 ## 5. Assembling an argument with zimwriterfs  𓐐𓎩 ⋆˙⟡ 𓌉◯𓇋 ⟡ ₊
 
