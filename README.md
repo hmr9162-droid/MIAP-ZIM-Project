@@ -7,7 +7,7 @@ v2.0.0 pre-re
 ## Quick, Tasty, Beginner-Friendly Recipes 
 If you're reading this there's a good chance you've unzipped a `.zip` file. If you are more familiar with internet archiving, you'll also recognize `.warc` which nests web material for re-access through tools like the Way Back Machine. As with these, `.zim` is a $\color{#A9A9A9}\text{container format.}$ 
 
-`zimwriterfs` does the assembly of a webpages key ingredients, including... 
+A command-line tool called `zimwriterfs` does the assembly of a webpages key ingredients, including... 
 
 | 📖 | 🥣 | 
 |:--------------:|:----------------------------------------------------------:|
