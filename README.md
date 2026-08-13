@@ -74,7 +74,7 @@ and,
 
 	$ sudo apt install zimwriterfs
 
-zimwriterfs does the assembly of a webpages key ingredients, such as: 
+zimwriterfs does the assembly of a webpages key ingredients, including: 
 
 | 📖 | 🥣 | 
 |:--------------:|:----------------------------------------------------------:|
