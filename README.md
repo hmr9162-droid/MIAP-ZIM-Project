@@ -128,7 +128,7 @@ Remember, the web evolves over time! Include [semantic versioning](https://semve
 -ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
 
-## This project borrows from the following resources
+## This project incorporates the following resources:
 
 | 🔗 | 📚
 |:--------------:|:----------------------------------------------------------:|
@@ -140,7 +140,7 @@ Remember, the web evolves over time! Include [semantic versioning](https://semve
 [The Cable Bible](https://amiaopensource.github.io/cable-bible/) | A Guide to Cables and Connectors Used for Audiovisual Tech  
 
 
-*If you contribute a zim of an archiving resource to our repository, we will link to the original webpage here and to the .zim source on our homepage!*
+*If you contribute a `.zim` of an archiving resource, we will link to the original webpage here and to the `.zim` source on our [homepage](hmr9162-droid.github.io/ZimSum)!*
 
 <br>
 
