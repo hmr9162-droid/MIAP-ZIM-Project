@@ -33,6 +33,7 @@ Then, a `.zim` stores the webpage for re-access with [Kiwix](https://github.com/
 
 Anyone who can enter a [command](https://www.youtube.com/watch?v=uwAqEzhyjtw&t=343s) into their computer's terminal, can archive the web pages for offline use...regardless of their experience in the $\color{#A9A9A9}\text{kitchen ‧₊˚.}$ 
 
+<br>
 
 * [🚀](hmr9162-droid.github.io/ZimSum/)
 * [Creating a .ZIM file](#Creating-a-.ZIM-File)
