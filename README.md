@@ -96,7 +96,8 @@ MPEGs | Moving Picture Experts Group
 Docker can also be used to compile all of the .ZIM tools in one command.
 
 	$ sudo docker pull ghcr.io/openzim/zim-tools:3.6.0
-	
+
+<br>
 
 ## 4. Assembling an argument with zimwriterfs  𓐐𓎩 ⋆˙⟡ 𓌉◯𓇋 ⟡ ₊
 
