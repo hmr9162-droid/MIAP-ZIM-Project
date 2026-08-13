@@ -134,22 +134,6 @@ Some other considerations include:
 
 Lastly, the preservation of web resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. Our project further aims to highlight the strengths and weaknesses of the `.zim` container format, compared to `.warc`, the existing web archiving standard. We've run crawls on [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/), an FFmpeg resource, and archived the site as both ffmprovisr.zim and ffmprovisr.warc. By comparing use-cases and key features, archivists can make stronger arguments for utilizing the `.zim` format for their projects.
 
-
-### This project incorporates the following resources:
-
-| 🔗 | 📚
-|:--------------:|:----------------------------------------------------------:|
-[Warc](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.0/) | Repository of warc format specifications
-[OpenZim](https://openzim.org/) | MediaWiki for the openZim project
-[OpenZim](https://github.com/openzim) | Repository for zim tools 
-[Kiwix](https://github.com/kiwix) | Kiwix offline zim reader repository 
-[FFmprovisr](https://amiaopensource.github.io/ffmprovisr/) | Repository of useful FFmpeg command lines for archivists!
-[The Cable Bible](https://amiaopensource.github.io/cable-bible/) | A Guide to Cables and Connectors Used for Audiovisual Tech  
-
-
-*If you contribute a `.zim` of an archiving resource, we will link to the original webpage here and to the `.zim` source on our [homepage](hmr9162-droid.github.io/ZimSum)!*
-
-
 ## Zibliography
 
 *A collection of `.zim` literature and related web archiving research* 
@@ -176,6 +160,22 @@ We are Moving Image Archiving and Preservation (MIAP) students at NYU. During ou
 Bug fixes and or other additions are also welcome. To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) and modify the main.html. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
 
 We encourage you to experiment and contribute `zim` resources to this [repository folder](https://github.com/hmr9162-droid/ZimSum/tree/main/resource%20library) for others to download. To recommend a resource for the repository submit the URL via the [issues tab](https://github.com/hmr9162-droid/ZimSum/issues).
+
+<br>
+
+This project incorporates the following resources:
+
+| 🔗 | 📚
+|:--------------:|:----------------------------------------------------------:|
+[Warc](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.0/) | Repository of warc format specifications
+[OpenZim](https://openzim.org/) | MediaWiki for the openZim project
+[OpenZim](https://github.com/openzim) | Repository for zim tools 
+[Kiwix](https://github.com/kiwix) | Kiwix offline zim reader repository 
+[FFmprovisr](https://amiaopensource.github.io/ffmprovisr/) | Repository of useful FFmpeg command lines for archivists!
+[The Cable Bible](https://amiaopensource.github.io/cable-bible/) | A Guide to Cables and Connectors Used for Audiovisual Tech  
+
+
+*If you contribute a `.zim` of an archiving resource, we will link to the original webpage here and to the `.zim` source on our [homepage](hmr9162-droid.github.io/ZimSum)!*
 
 ## License
 
