@@ -5,7 +5,7 @@ v2.0.0 pre-re
 # $\color{#A9A9A9}\text{ZIM SUM  ‧₊˚ ⋅  𓐐𓎩 ‧₊˚ ⋅ (๑ᵔ⤙ᵔ๑)  }$ 
 
 ## Quick, Tasty, Beginner-Friendly Recipes 
-If you're reading this there's a good chance you've unzipped a `.zip` file. If you are more familiar with internet archiving, you'll also recognize `.warc` which bundles up web material for re-access through tools like the Way Back Machine. As with these, `.zim` is a $\color{#A9A9A9}\text{container format.}$ 
+If you're reading this there's a good chance you've unzipped a `.zip` file. If you are more familiar with internet archiving, you'll also recognize `.warc` which nests web material for re-access through tools like the Way Back Machine. As with these, `.zim` is a $\color{#A9A9A9}\text{container format.}$ 
 
 `.zim` bundles up webpages for re-access with [Kiwix](https://github.com/kiwix), or other `.zim` reader, to simulate web browsing $\color{#A9A9A9}\text{without being connected to the internet.}$ 
 
