@@ -74,7 +74,7 @@ and,
 
 	$ sudo apt install zimwriterfs
 
-`zimwriterfs` does the assembly of a webpages key ingredients, including: 
+`zimwriterfs` does the assembly of a webpages key ingredients, including... 
 
 | 📖 | 🥣 | 
 |:--------------:|:----------------------------------------------------------:|
@@ -87,7 +87,7 @@ GIFs | Graphics Interchange Format
 MPEGs | Moving Picture Experts Group 
 
 
-using the recipe below 
+...using a basic recipe like this: 
 
 	$ zimwriterfs + [mandatory arguments] + [optional arguments] + HTML_DIRECTORY + [Name_for_your_delicious_new_zim_file]
 	
