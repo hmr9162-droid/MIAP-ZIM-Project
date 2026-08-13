@@ -165,9 +165,7 @@ Remember, the web evolves over time! Include [semantic versioning](https://semve
 
 We are Moving Image Archiving and Preservation (MIAP) students at NYU. During our studies, we became interested in the potential uses of `zim` for archivists and in promoting access to online tools. 
 
-<br>
-
-You are encouraged to experiment and contribute zim or warc files to the repository of resources for others to download.  
+We encourage you to experiment and contribute `zim` resources to this repository for others to download. To recommend a resource for the repository submit the URL via the "issues" tab. 
 
 Bug fixes and or other additions are also welcome. To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) then upload your file to docs/resources or modify the main.html. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
 
