@@ -2,7 +2,7 @@
 # $\color{#A9A9A9}\text{ZIM SUM  ‧₊˚ ⋅  𓐐𓎩 ‧₊˚ ⋅ (๑ᵔ⤙ᵔ๑)  }$ 
 
 ## Quick, Tasty, Beginner-Friendly Recipes 
-If you're reading this there's a good chance you've unzipped a .ZIP file. If you are more familiar with internet archiving, you've probably also seen a .WARC file, which bundles up web material for re-access through tools like the Way Back Machine. Like `.zim` and `.warc`, `.zim` is a $\color{#A9A9A9}\text{container format}$ used to store webpages for use with Kiwix, or other .ZIM reader, which simulate web browsing $\color{#A9A9A9}\text{without being connected to the internet.}$ Anyone can archive the web for offline use regardless of their experience $\color{#A9A9A9}\text{in the kitchen.}$ This guide is here to help!
+If you're reading this there's a good chance you've unzipped a `.zip` file. If you are more familiar with internet archiving, you'll recognize `.warc` which bundles up web material for re-access through tools like the Way Back Machine. Like `.zip` and `.warc`, `.zim` is a $\color{#A9A9A9}\text{container format}$ used to store webpages for use with Kiwix, or other `.zim` reader, which simulate web browsing $\color{#A9A9A9}\text{without being connected to the internet.}$ Anyone can archive the web for offline use regardless of their experience $\color{#A9A9A9}\text{in the kitchen.}$ This guide is here to help!
 
 
 * [Homepage](hmr9162-droid.github.io/ZimSum/)
