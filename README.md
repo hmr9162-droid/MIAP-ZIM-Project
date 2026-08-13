@@ -74,11 +74,11 @@ and,
 
 	$ sudo apt install zimwriterfs
 
-*zimwriterfs packages together a webpage's key ingredients* 
+#zimwriterfs# packages together a webpage's key ingredients ‧₊˚ ⋅🥕‧ 𖦹°‧₊
 
-+ HTML + CSS + JavaScript + PNGs + JPGs + GIFs + Video, and other web resources into a single .ZIM archive
++ HTML + CSS + JavaScript + PNGs + JPGs + GIFs + Video 
 
-*using the recipe below* ‧₊˚ ⋅🥕‧ 𖦹°‧₊
+using the recipe below 
 
 	$ zimwriterfs + [mandatory arguments] + [optional arguments] + HTML_DIRECTORY + [Name_for_your_delicious_new_zim_file]
 	
