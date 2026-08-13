@@ -108,7 +108,9 @@ Remember, the web evolves over time! Include [semantic versioning](https://semve
 <br>
 -ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
-<img src="images/zim_file_white.png" width="80">   
+<br>
+
+<img src="images/zim_file_white.png" width="100">   
 
 ## Why ZIM?
 
@@ -131,7 +133,6 @@ Some other considerations include:
 
 Lastly, the preservation of web resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. Our project further aims to highlight the strengths and weaknesses of the `.zim` container format, compared to `.warc`, the existing web archiving standard. We've run crawls on [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/), an FFmpeg resource, and archived the site as both ffmprovisr.zim and ffmprovisr.warc. By comparing use-cases and key features, archivists can make stronger arguments for utilizing the `.zim` format for their projects.
 
-<br>
 
 ## This project incorporates the following resources:
 
@@ -147,7 +148,6 @@ Lastly, the preservation of web resources, like a Github repository, for offline
 
 *If you contribute a `.zim` of an archiving resource, we will link to the original webpage here and to the `.zim` source on our [homepage](hmr9162-droid.github.io/ZimSum)!*
 
-<br>
 
 ## Zibliography
 
