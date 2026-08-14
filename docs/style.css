@@ -50,7 +50,8 @@ p:not(:last-child) {
 
 .table {
   font-family: "Pixelated MS Sans Serif";
-  width: 20%;
+  height: 200;
+  width: 400;
   border-collapse: separate;
   border-spacing: 0;
   background: var(--surface);
@@ -66,15 +67,6 @@ p:not(:last-child) {
   box-shadow:
     var(--border-raised-outer),
     var(--border-raised-inner);
-}
-
-.table td {
-  padding: 4px 8px;
-  background: var(--surface);
-
-  box-shadow:
-    var(--border-sunken-outer),
-    var(--border-sunken-inner);
 }
 
 .table a {
