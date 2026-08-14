@@ -1,9 +1,9 @@
 
 # $\color{#A9A9A9}\text{WELCOME TO ZIM SUM  ‧₊˚ ⋅  𓐐𓎩 ‧₊˚ ⋅ (๑ᵔ⤙ᵔ๑)  }$ 
 
-# Quick, Easy, Command-Line Recipes 
+## Quick, Easy, Command-Line Recipes 
 
-## $\color{#A9A9A9}\text{About}$ 
+### $\color{#A9A9A9}\text{About}$ 
 If you're reading this there's a good chance you've unzipped a `.zip` file. If you are more familiar with internet archiving, you'll also recognize `.warc` which nests web material for re-access through tools like the Way Back Machine. As with these, `.zim` is a $\color{#A9A9A9}\text{container format.}$ 
 
 A command-line tool called `zimwriterfs` performs the assembly of a webpages key ingredients, including... 
