@@ -42,7 +42,6 @@ p:not(:last-child) {
     margin: 0;
     width: 100vw;
     height: 100vh;
-
 	display: flex;
     justify-content: center;
     align-items: center;
@@ -63,7 +62,6 @@ p:not(:last-child) {
 .table th {
   padding: 20px 20px;
   background: var(--button-face);
-
   box-shadow:
     var(--border-raised-outer),
     var(--border-raised-inner);
@@ -124,6 +122,7 @@ p:not(:last-child) {
 html, body {
     margin: 0;
     min-height: 100%;
+	font-family: "Pixelated MS Sans Serif";
     background-color: #c0c0c0;
 }
 
@@ -177,6 +176,7 @@ body {
 
 .tab-buttons {
 	display: flex;
+	font-family: "Pixelated MS Sans Serif";
     justify-content: center;
     align-items: center;
     gap: 15px;
