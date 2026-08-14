@@ -4,6 +4,33 @@ p:not(:last-child) {
     margin-block-end: 1em;
 }
 
+/* borrowed from https://github.com/jdan/98.css/blob/main/style.css */
+
+:root {
+  /* Color */
+  --text-color: #222222;
+  --surface: #c0c0c0;
+  --button-highlight: #ffffff;
+  --button-face: #dfdfdf;
+  --button-shadow: #808080;
+  --window-frame: #0a0a0a;
+  --dialog-blue: #000080;
+  --dialog-blue-light: #1084d0;
+  --dialog-gray: #808080;
+  --dialog-gray-light: #b5b5b5;
+  --link-blue: #0000ff;
+
+ --border-width: 1px;
+--border-raised-outer: inset -1px -1px var(--window-frame),
+    inset 1px 1px var(--button-highlight);
+  --border-raised-inner: inset -2px -2px var(--button-shadow),
+    inset 2px 2px var(--button-face);
+  --border-sunken-outer: inset -1px -1px var(--button-highlight),
+    inset 1px 1px var(--window-frame);
+  --border-sunken-inner: inset -2px -2px var(--button-face),
+    inset 2px 2px var(--button-shadow);
+
+
 /* DOOR OR ENTRY PAGE */ 
 
 .entry-background {
@@ -13,23 +40,44 @@ p:not(:last-child) {
     height: 100vh;
 }
 
-.door {
-    display: inline-block;
+.table {
+  font-family: "Pixelated MS Sans Serif";
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  background: var(--surface);
+  box-shadow:
+    var(--border-raised-outer),
+    var(--border-raised-inner);
 }
 
-.door a {
+th {
+  padding: 4px 8px;
+  background: var(--button-face);
+
+  box-shadow:
+    var(--border-raised-outer),
+    var(--border-raised-inner);
+}
+
+td {
+  padding: 4px 8px;
+  background: var(--surface);
+
+  box-shadow:
+    var(--border-sunken-outer),
+    var(--border-sunken-inner);
+}
+
+.table a {
     color: #0000cc;
 }
 
-.door a:visited {
-    color: #0000cc;
+.table a:hover {
+    color: #1a73e8;
 }
 
-.door a:hover {
-    color: #0000cc;
-}
-
-.door a:active {
+.table a:active {
     color: #0000cc;
 }
 
