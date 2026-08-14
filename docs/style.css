@@ -136,17 +136,21 @@ body {
     box-sizing: border-box;
 }
 
+
+/* Widget */
+
 .widget {
-	margin-top: 20px;
+    width: 90%;
+    max-width: 1000px;
+    margin: 20px auto 0;
+    box-sizing: border-box;
     border: 1px solid #ccc;
-	background-color: #c0c0c0;
-  	border-radius: 6px;
-  	box-shadow: 0 5px 12px rgba(0,0,0,0.15);
-  	font-family: "Pixelated MS Sans Serif";
-  	max-width: 1200px;
-    display: flex;
+    background-color: #c0c0c0;
+    border-radius: 6px;
+    box-shadow: 0 5px 12px rgba(0, 0, 0, 0.15);
+    font-family: "Pixelated MS Sans Serif";
     padding: 75px;
-	}
+}
     
 
 /* footer with year */ 
@@ -164,6 +168,7 @@ body {
 .tabs {
     margin-top: 175px;
     width: 100%;
+	margin: 200px auto 0;
 }
 
 .tabs input[type="radio"] {
@@ -175,9 +180,8 @@ body {
     justify-content: center;
     align-items: center;
     gap: 15px;
-    display: flex; 
     flex-direction: row;
-    width: 150px;
+    width: 200px;
 
 }
 
