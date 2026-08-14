@@ -2,50 +2,32 @@
 
 /* DOOR OR ENTRY PAGE */ 
 
-    .entry-background {
-        background-color: #C0C0C0;
-		position: fixed;
-  		top: 0;
-  		left: 0;
-  		width: 100vw;       
-  		height: 100vh;      
-  		z-index: -1; 
-
-    }
-
-	.door {
-   		display: table;
-    	box-sizing: border-box;
-    	border-collapse: separate;
-    	text-indent: initial;
-    	unicode-bidi: isolate;
-    	line-height: normal;
-    	font-weight: normal;
-    	font-size: medium;
-    	font-style: normal;
-    	color: -internal-quirk-inherit;
-    	text-align: start;
-    	border-spacing: 2px;
-    	white-space: normal;
-    	font-variant: normal;
+.entry-background {
+    background-color: #C0C0C0;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
 }
 
-    .door:hover {
-          background-color: #C0C0C0;
-    }
+.door {
+    display: inline-block;
+}
 
-    .door a:visited { 
-        color: #0000cc; 
-    } 
+.door a {
+    color: #0000cc;
+}
 
-    .door a:hover { 
-    color: #0000cc; 
+.door a:visited {
+    color: #0000cc;
+}
 
-    } 
+.door a:hover {
+    color: #0000cc;
+}
 
-    .door a:active { 
-        color: #0000cc; 
-    }
+.door a:active {
+    color: #0000cc;
+}
 
 /* MAIN PAGE */
 /* title header and logo design */ 
