@@ -220,15 +220,48 @@ body {
     background-image: url("images/file_open_150.png");
 }
 
+/* table content */
 
-/* checked */
+#tab1:checked ~ .tab-buttons label[for="tab1"],
+#tab2:checked ~ .tab-buttons label[for="tab2"],
+#tab3:checked ~ .tab-buttons label[for="tab3"],
+#tab4:checked ~ .tab-buttons label[for="tab4"] {
+
+    background-image:
+        url("images/file_open_150.png");
+    z-index: 2;
+}
+
+
+.tab-content {
+
+    position: relative;
+    width: 100%;
+    min-height: 300px;
+    box-sizing: border-box;
+    padding: 25px;
+    background: var(--button-face);
+    border: 2px solid;
+    border-color:
+        var(--button-highlight)
+        var(--window-frame)
+        var(--window-frame)
+        var(--button-highlight);
+}
+
+
+/* Hide all content */
 
 .tab-content-1,
 .tab-content-2,
 .tab-content-3,
 .tab-content-4 {
+
     display: none;
 }
+
+
+/* Show selected content */
 
 #tab1:checked ~ .tab-content .tab-content-1 {
     display: block;
@@ -246,17 +279,4 @@ body {
     display: block;
 }
 
-#tab1:checked ~ .tab-buttons label[for="tab1"],
-#tab2:checked ~ .tab-buttons label[for="tab2"],
-#tab3:checked ~ .tab-buttons label[for="tab3"],
-#tab4:checked ~ .tab-buttons label[for="tab4"] {
-    background: var(--button-face);
-	background-image: url("images/file_open_150.png");
-    height: 27px;
-    z-index: 2;
-    box-shadow:
-        inset 1px 1px var(--button-highlight),
-        inset -1px 0 var(--window-frame),
-        inset 2px 2px var(--button-face);
-}
 
