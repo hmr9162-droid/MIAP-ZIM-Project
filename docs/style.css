@@ -175,9 +175,10 @@ body {
 }
 
 .tab-buttons {
+	
+    justify-content: center;
 	display: flex;
 	font-family: "Pixelated MS Sans Serif";
-    justify-content: center;
     align-items: center;
     gap: 15px;
     flex-direction: row;
