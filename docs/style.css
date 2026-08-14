@@ -112,8 +112,8 @@ body {
 
 .widget {
     width: 90%;
-    max-width: 1000px;
-    margin: 100px auto 0;
+    max-width: 1200px;
+    margin: auto;
     background: var(--button-face);
 	font-family: "Pixelated MS Sans Serif";
     padding: 3px;
@@ -126,24 +126,23 @@ body {
 }
 
 .widget-titlebar {
-    height: 22px;
-    display: flex;
+    height: 40px;
+	max-width: 1200px;
     align-items: center;
-    justify-content: space-between;
     padding: 2px 3px;
     box-sizing: border-box;
     background: #000080;
     color: white;
     font-family: "Pixelated MS Sans Serif", sans-serif;
-    font-size: 14px;
+    font-size: 30px;
     font-weight: bold;
 }
 
 .window-controls button {
-    width: 18px;
-    height: 18px;
+    width: 40px;
+    height: 40px;
     padding: 0;
-    display: flex;
+    display: in-line block;
     align-items: center;
     justify-content: center;
     box-sizing: border-box;
@@ -151,7 +150,7 @@ body {
     color: black;
     border: none;
     font-family: Arial, sans-serif;
-    font-size: 12px;
+    font-size: 30px;
     font-weight: bold;
     line-height: 1;
     box-shadow:
@@ -174,7 +173,7 @@ body {
 /* close */
 
 .window-controls .close {
-    font-size: 14px;
+    font-size: 30px;
 }
 
 /* tab design  */ 
