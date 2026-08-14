@@ -96,7 +96,6 @@ p:not(:last-child) {
         position: absolute; 
         top: 10px; 
         left: 15px; 
-        right: 15px; 
         width: 98%; 
         display: flex; 
         justify-content: space-between; 
@@ -156,37 +155,6 @@ body {
     padding: 75px;
 	}
     
-/* title header and logo design */ 
-
-    .site-header { 
-        position: absolute; 
-        top: 10px; 
-        left: 15px; 
-        right: 15px; 
-        width: 98%; 
-        display: flex; 
-        justify-content: space-between; 
-        align-items: flex-start; 
-        margin: 2px; 
-		padding: 20px; 
-    } 
-
-    .site-header img { 
-        display: block; 
-        height: auto; 
-			
-    } 
-
-    .logo-left { 
-  	   max-width: 20vw;
-       height: auto;
-
-    } 
-
-    .logo-right { 
-  	   max-width: 20vw;
-       height: auto;
-    }
 
 /* footer with year */ 
 
@@ -222,12 +190,12 @@ body {
 }
 
 .tab-buttons label {
+	background-image: url("images/github-home_closed.png");
     display: block;
     width: 100px;
     box-sizing: border-box;
     padding: 3px 6px;
     margin: 8px 0;
-    background-color: white;
     color: black;
     border: 1px solid #ddd;
     border-radius: 150px;
@@ -237,7 +205,7 @@ body {
 }
 
 .tab-buttons label:hover { 
-    background-color: #f1f1f1; 
+	background-image: url("images/github-home_open.png");
 }
 
 /* active tab */ 
