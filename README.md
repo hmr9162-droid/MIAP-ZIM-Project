@@ -28,7 +28,7 @@ MPEGs | Moving Picture Experts Group
 
 <br>
 
-*SooOooo*, anyone who can enter a [command](https://www.youtube.com/watch?v=uwAqEzhyjtw&t=343s) into their computer's terminal, can archive the web pages for offline use...regardless of their experience in the $\color{#A9A9A9}\text{kitchen ‧₊˚.}$ 
+*SooOooo*, anyone who can enter a [command](https://www.youtube.com/watch?v=uwAqEzhyjtw&t=343s) into their computer's terminal, can archive web pages for offline use...regardless of their experience in the $\color{#A9A9A9}\text{kitchen ‧₊˚.}$ 
 
 <br>
 
