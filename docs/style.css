@@ -61,7 +61,7 @@ p:not(:last-child) {
 }
 
 .table th {
-  padding: 4px 8px;
+  padding: 20px 20px;
   background: var(--button-face);
 
   box-shadow:
