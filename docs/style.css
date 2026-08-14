@@ -138,6 +138,14 @@ body {
     font-weight: bold;
 }
 
+/* Push controls to the far right */
+.window-controls {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+
 .window-controls button {
     width: 40px;
     height: 40px;
