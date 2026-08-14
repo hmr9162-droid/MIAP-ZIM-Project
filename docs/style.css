@@ -186,6 +186,18 @@ body {
 
 /* tab design  */ 
 
+.tabs > input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.tabs {
+    width: 100%;
+    box-sizing: border-box;
+    background: var(--button-face);
+}
+
 .tab-buttons {
     display: flex;
     align-items: flex-end;
@@ -195,26 +207,32 @@ body {
     background: var(--button-face);
 }
 
+/* Individual tabs */
+
 .tab-buttons label {
     min-width: 90px;
-    height: 70px;
+    height: 28px;
     display: flex;
     align-items: center;
     justify-content: center;
     box-sizing: border-box;
+    padding: 0 12px;
+    background: var(--button-face);
+    color: var(--text-color);
     font-family: "Pixelated MS Sans Serif", sans-serif;
     font-size: 14px;
     cursor: pointer;
-    border: none;
-    padding: 0;
-    margin: 0;
-    transition: background-image 0.1s ease;
+    border-top: 1px solid var(--button-highlight);
+    border-left: 1px solid var(--button-highlight);
+    border-right: 1px solid var(--window-frame);
+    border-bottom: 1px solid var(--button-shadow);
     box-shadow:
-        inset 1px 1px var(--button-highlight),
-        inset -1px -1px var(--window-frame),
-        inset 2px 2px var(--button-face),
-        inset -2px -2px var(--button-shadow);
+        inset 1px 1px var(--button-face),
+        inset -1px -1px var(--button-shadow);
+    position: relative;
+    z-index: 1;
 }
+
 
 
 /* hover */
