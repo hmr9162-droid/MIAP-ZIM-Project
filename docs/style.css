@@ -223,6 +223,29 @@ body {
 
 /* checked */
 
+.tab-content-1,
+.tab-content-2,
+.tab-content-3,
+.tab-content-4 {
+    display: none;
+}
+
+#tab1:checked ~ .tab-content .tab-content-1 {
+    display: block;
+}
+
+#tab2:checked ~ .tab-content .tab-content-2 {
+    display: block;
+}
+
+#tab3:checked ~ .tab-content .tab-content-3 {
+    display: block;
+}
+
+#tab4:checked ~ .tab-content .tab-content-4 {
+    display: block;
+}
+
 #tab1:checked ~ .tab-buttons label[for="tab1"],
 #tab2:checked ~ .tab-buttons label[for="tab2"],
 #tab3:checked ~ .tab-buttons label[for="tab3"],
