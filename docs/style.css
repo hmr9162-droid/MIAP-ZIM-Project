@@ -80,31 +80,6 @@ p:not(:last-child) {
 }
 
 /* MAIN PAGE */
-/* title header and logo design */ 
-
-    .site-header { 
-        position: absolute; 
-        top: 10px; 
-        left: 15px; 
-        width: 98%; 
-        display: flex; 
-        justify-content: space-between; 
-        align-items: flex-start; 
-        margin: 2px; 
-		padding: 20px; 
-    } 
-
-    .site-header img { 
-        display: block; 
-        height: auto; 
-			
-    } 
-
-    .logo-left { 
-  	   max-width: 20vw;
-       height: auto;
-
-    } 
 
 /* body */ 
 
@@ -136,111 +111,131 @@ body {
 /* Widget */
 
 .widget {
-    position: relative;
-    width: 100%;
+    width: 90%;
     max-width: 1000px;
+    margin: 100px auto 0;
+    background: var(--button-face);
+	font-family: "Pixelated MS Sans Serif";
+    padding: 3px;
     box-sizing: border-box;
-    margin: 0 auto;
-    padding: 0;
-    background-color: var(--button-face);
-    border: none;
     box-shadow:
         inset -1px -1px var(--window-frame),
         inset 1px 1px var(--button-highlight),
         inset -2px -2px var(--button-shadow),
         inset 2px 2px var(--button-face);
-    font-family: "Pixelated MS Sans Serif";
 }
 
-
-/* tab design  */ 
-
-.window-header {
-    height: 24px;
+.widget-titlebar {
+    height: 22px;
     display: flex;
     align-items: center;
-    box-sizing: border-box;
+    justify-content: space-between;
     padding: 2px 3px;
-    background: var(--dialog-blue);
-    color: white;
-}
-
-.tabs {
-    margin-top: 175px;
-    width: 100%;
-	margin: 200px auto 0;
-}
-
-.tabs input[type="radio"] {
-    display: none;
-}
-
-.tab-buttons {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: flex-end;
-    width: 100%;
-    gap: 2px;
-    padding-left: 8px;
-}
-
-.tab-buttons label {
-    position: relative;
-    width: 120px;
-    height: 32px;
     box-sizing: border-box;
+    background: #000080;
+    color: white;
+    font-family: "Pixelated MS Sans Serif", sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.window-controls button {
+    width: 18px;
+    height: 18px;
+    padding: 0;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 4px 10px;
-    background-color: var(--button-face);
-    color: var(--text-color);
-    font-family: "Pixelated MS Sans Serif";
-    font-size: 16px;
-    cursor: pointer;
+    box-sizing: border-box;
+    background: var(--button-face);
+    color: black;
+    border: none;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1;
     box-shadow:
         inset -1px -1px var(--window-frame),
         inset 1px 1px var(--button-highlight),
         inset -2px -2px var(--button-shadow),
         inset 2px 2px var(--button-face);
+    cursor: pointer;
 }
 
-.tab-buttons label:hover { 
-	background-image: url('.../images/file_open.png');
+
+/* pressed  */
+
+.window-controls button:active {
+    box-shadow:
+        inset 1px 1px var(--window-frame),
+        inset -1px -1px var(--button-highlight);
 }
 
-.tab-content {
-    padding: 20px;
-    min-height: 250px;
-    background-color: var(--button-face);
+/* close */
+
+.window-controls .close {
+    font-size: 14px;
 }
 
-/* active tab */ 
-    
-    #tab1:checked ~ .tab-buttons label[for="tab1"], 
-    #tab2:checked ~ .tab-buttons label[for="tab2"], 
-    #tab3:checked ~ .tab-buttons label[for="tab3"], 
-    #tab4:checked ~ .tab-buttons label[for="tab4"] { 
-        background-image: url('.../images/file_folder.png');
-    
+/* tab design  */ 
+
+.tab-buttons {
+    display: flex;
+    align-items: flex-end;
+    gap: 2px;
+    padding-left: 6px;
+    padding-top: 4px;
+    background: var(--button-face);
 }
 
-/* inside the tab contents */
-
-    .tab-content-1, 
-    .tab-content-2, 
-    .tab-content-3, 
-    .tab-content-4 { 
-        display: none; }
-
-    #tab1:checked ~ .widget .tab-content-1 { 
-        display: block; } 
-    #tab2:checked ~ .widget .tab-content-2 { 
-        display: block; } 
-    #tab3:checked ~ .widget .tab-content-3 { 
-        display: block; } 
-    #tab4:checked ~ .widget .tab-content-4 { 
-        display: block; 
-
+.tab-buttons label {
+    min-width: 90px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    background-image: url("images/file_closed.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+	color: var(--text-color);
+	background: var(--button-face);
+    font-family: "Pixelated MS Sans Serif", sans-serif;
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+    padding: 0;
+    margin: 0;
+    transition: background-image 0.1s ease;
+    box-shadow:
+        inset 1px 1px var(--button-highlight),
+        inset -1px -1px var(--window-frame),
+        inset 2px 2px var(--button-face),
+        inset -2px -2px var(--button-shadow);
 }
+
+
+/* hover */
+
+	.tab-buttons label:hover {
+    background-image: url("images/file_open_150.png");
+}
+
+
+/* checked */
+
+#tab1:checked ~ .tab-buttons label[for="tab1"],
+#tab2:checked ~ .tab-buttons label[for="tab2"],
+#tab3:checked ~ .tab-buttons label[for="tab3"],
+#tab4:checked ~ .tab-buttons label[for="tab4"] {
+    background: var(--button-face);
+	background-image: url("images/file_open_150.png");
+    height: 27px;
+    z-index: 2;
+    box-shadow:
+        inset 1px 1px var(--button-highlight),
+        inset -1px 0 var(--window-frame),
+        inset 2px 2px var(--button-face);
+}
+
