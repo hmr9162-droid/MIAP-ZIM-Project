@@ -50,7 +50,7 @@ p:not(:last-child) {
 
 .table {
   font-family: "Pixelated MS Sans Serif";
-  width: 100%;
+  width: 20%;
   border-collapse: separate;
   border-spacing: 0;
   background: var(--surface);
