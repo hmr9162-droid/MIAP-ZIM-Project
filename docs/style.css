@@ -161,10 +161,11 @@ body {
     cursor: pointer;
 }
 
-
-/* pressed  */
-
 .window-controls button:active {
+	display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-left: auto;
     box-shadow:
         inset 1px 1px var(--window-frame),
         inset -1px -1px var(--button-highlight);
