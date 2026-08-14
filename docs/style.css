@@ -151,7 +151,6 @@ body {
     height: 40px;
     padding: 0;
     display: in-line block;
-    align-items: center;
     justify-content: center;
     box-sizing: border-box;
     background: var(--button-face);
@@ -203,10 +202,6 @@ body {
     align-items: center;
     justify-content: center;
     box-sizing: border-box;
-    background-image: url("images/file_closed.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
     font-family: "Pixelated MS Sans Serif", sans-serif;
     font-size: 14px;
     cursor: pointer;
@@ -225,7 +220,6 @@ body {
 /* hover */
 
 	.tab-buttons label:hover {
-    background-image: url("images/file_open_150.png");
 }
 
 /* table content */
@@ -234,9 +228,6 @@ body {
 #tab2:checked ~ .tab-buttons label[for="tab2"],
 #tab3:checked ~ .tab-buttons label[for="tab3"],
 #tab4:checked ~ .tab-buttons label[for="tab4"] {
-
-    background-image:
-        url("images/file_open_150.png");
     z-index: 2;
 }
 
