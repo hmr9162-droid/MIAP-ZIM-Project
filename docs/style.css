@@ -106,7 +106,7 @@ p:not(:last-child) {
 
     } 
 
-/* body and widget formatting */ 
+/* body */ 
 
 .page-layout {
     display: grid;
@@ -120,49 +120,50 @@ p:not(:last-child) {
 }
 
 html, body {
-    margin: 0;
+    margin: auto;
+	padding: 30px;
     min-height: 100%;
 	font-family: "Pixelated MS Sans Serif";
     background-color: #c0c0c0;
 }
 
 body {
-    text-align: center;
-    font-size: 2rem;
+    text-align: left;
     font-family: "Pixelated MS Sans Serif";
-    color: black;
-    padding: 30px;
-    box-sizing: border-box;
 }
 
 
 /* Widget */
 
 .widget {
-    width: 90%;
+    position: relative;
+    width: 100%;
     max-width: 1000px;
-    margin: 20px auto 0;
     box-sizing: border-box;
-    border: 1px solid #ccc;
-    background-color: #c0c0c0;
-    border-radius: 6px;
-    box-shadow: 0 5px 12px rgba(0, 0, 0, 0.15);
+    margin: 0 auto;
+    padding: 0;
+    background-color: var(--button-face);
+    border: none;
+    box-shadow:
+        inset -1px -1px var(--window-frame),
+        inset 1px 1px var(--button-highlight),
+        inset -2px -2px var(--button-shadow),
+        inset 2px 2px var(--button-face);
     font-family: "Pixelated MS Sans Serif";
-    padding: 75px;
 }
-    
 
-/* footer with year */ 
 
-	.site-footer {
-		font-size: 0.5rem;
-		position: absolute; 
-        bottom: 10px; 
-        right: 15px; 
-	
-	}
+/* tab design  */ 
 
-/* tab design and controls */ 
+.window-header {
+    height: 24px;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 2px 3px;
+    background: var(--dialog-blue);
+    color: white;
+}
 
 .tabs {
     margin-top: 175px;
@@ -175,38 +176,44 @@ body {
 }
 
 .tab-buttons {
-	
-    justify-content: center;
-	display: flex;
-	font-family: "Pixelated MS Sans Serif";
-    align-items: center;
-    gap: 15px;
+    display: flex;
     flex-direction: row;
-    width: 200px;
-
+    justify-content: flex-start;
+    align-items: flex-end;
+    width: 100%;
+    gap: 2px;
+    padding-left: 8px;
 }
 
 .tab-buttons label {
-    background-image: url('.../images/file_closed.png');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-	font-family: "Pixelated MS Sans Serif";
+    position: relative;
+    width: 120px;
+    height: 32px;
+    box-sizing: border-box;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 100px;
-    height: 70px;
-    padding: 3px 6px;
-    margin: 8px 0;
-    color: black;
+    padding: 4px 10px;
+    background-color: var(--button-face);
+    color: var(--text-color);
+    font-family: "Pixelated MS Sans Serif";
+    font-size: 16px;
     cursor: pointer;
-    transition: background-image 0.3s ease;
-    text-align: center;
+    box-shadow:
+        inset -1px -1px var(--window-frame),
+        inset 1px 1px var(--button-highlight),
+        inset -2px -2px var(--button-shadow),
+        inset 2px 2px var(--button-face);
 }
 
 .tab-buttons label:hover { 
 	background-image: url('.../images/file_open.png');
+}
+
+.tab-content {
+    padding: 20px;
+    min-height: 250px;
+    background-color: var(--button-face);
 }
 
 /* active tab */ 
