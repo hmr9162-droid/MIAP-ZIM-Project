@@ -190,7 +190,7 @@ body {
 }
 
 .tab-buttons label {
-	background-image: url("images/github-home_closed.png");
+	background-image: url("images/file_closed.png");
     display: block;
     width: 100px;
     box-sizing: border-box;
@@ -205,7 +205,7 @@ body {
 }
 
 .tab-buttons label:hover { 
-	background-image: url("images/github-home_open.png");
+	background-image: url("images/file_open.png");
 }
 
 /* active tab */ 
@@ -214,8 +214,7 @@ body {
     #tab2:checked ~ .tab-buttons label[for="tab2"], 
     #tab3:checked ~ .tab-buttons label[for="tab3"], 
     #tab4:checked ~ .tab-buttons label[for="tab4"] { 
-        background-color: #333; 
-        color: white; border-color: #333; 
+        background-image: url("images/file_folder.png");
     
 }
 
