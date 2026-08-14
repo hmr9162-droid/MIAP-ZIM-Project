@@ -177,7 +177,7 @@ body {
     grid-column:1;
     grid-row: 1;
     display: flex; 
-    flex-direction: column;
+    flex-direction: row;
     width: 150px;
 
 }
@@ -187,19 +187,17 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
+	font-family: "Pixelated MS Sans Serif";
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100px;
     height: 70px;
-    box-sizing: border-box;
     padding: 3px 6px;
     margin: 8px 0;
     color: black;
-    border: none;
-    border-radius: 0;
     cursor: pointer;
-    transition: background-image 0.2s ease;
+    transition: background-image 0.3s ease;
     text-align: center;
 }
 
