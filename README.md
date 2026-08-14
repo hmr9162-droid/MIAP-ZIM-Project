@@ -32,6 +32,8 @@ Anyone who can enter a [command](https://www.youtube.com/watch?v=uwAqEzhyjtw&t=3
 
 <br>
 
+### $\color{#A9A9A9}\text{Table of Contents}$ 
+
 * [🚀](hmr9162-droid.github.io/ZimSum/)
 * [Creating a .ZIM file](#Creating-a-.ZIM-File)
 * [Why .ZIM?](#Why-ZIM?)
