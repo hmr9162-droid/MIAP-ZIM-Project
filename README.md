@@ -52,7 +52,7 @@ Anyone who can enter a [command](https://www.youtube.com/watch?v=uwAqEzhyjtw&t=3
 
 # $\color{#A9A9A9}\text{Creating a .ZIM File }$ 
 
-## 1. Check for system updates  🛒 ⋆˙⟡
+### 1. Check for system updates  🛒 ⋆˙⟡
 
 open MacOS terminal -> [command] + [space]  
 open Windows terminal -> [win] + [r] then, [wt]
@@ -61,14 +61,14 @@ Then run:
 	$ sudo apt update
 	$ sudo apt upgrade
 
-## 2. Install Dependencies  🔥 
+### 2. Install Dependencies  🔥 
 
 	$ sudo snap install docker
 	$ sudo apt install pkgconf
 	$ sudo apt install googletest
 	$ sudo apt install python3-pip meson
 
-## 3. Install .ZIM tools  🥢  
+### 3. Install .ZIM tools  🥢  
 	
 	$ sudo apt install libzim-dev 
 	$ sudo apt install libmagic-dev 
@@ -76,7 +76,7 @@ Then run:
 	$ sudo apt install libgumbo-dev 
 	$ sudo apt install libicu-dev
 
-## 3. Install zimwriterfs  🥕
+### 3. Install zimwriterfs  🥕
 
 	$ sudo apt install zimwriterfs
 
@@ -88,9 +88,9 @@ Docker can also be used to compile all of the .ZIM tools in one command.
 
 <br>
 
-## 4. Prep Time ⊹ ࣪ ˖⏱ ୭˚. ᵎ
+### 4. Prep Time ⊹ ࣪ ˖⏱ ୭˚. ᵎ
 
-## 5. Assembling an argument with zimwriterfs  𓐐𓎩 ⋆˙⟡ 𓌉◯𓇋 ⟡ ₊
+### 5. Assembling an argument with zimwriterfs  𓐐𓎩 ⋆˙⟡ 𓌉◯𓇋 ⟡ ₊
 
 Two example commands:
 
@@ -102,11 +102,11 @@ Two example commands:
 
 	$ zimwriterfs --welcome=index.html --illustration=plug.png --language=en --title=cable-bible --description=offline --creator=amiaopensource --publisher=your_name amiaopensource.github.io/cable-bible cable-bible.zim
 
-## 6. Enjoying your library  (｡ᴖ ⤙ ᴖ)‎ ˚₊‧🥄
+### 6. Enjoying your library  (｡ᴖ ⤙ ᴖ)‎ ˚₊‧🥄
 
-## 7. Sharing your library 🥡
+### 7. Sharing your library 🥡
 
-## 8. Versioning 🖇️
+### 8. Versioning 🖇️
 Remember, the web evolves over time! Include [semantic versioning](https://semver.org/) in your file_name.zim to track updates in your new library. That way you can always go back to the original.   
 
 <br>
