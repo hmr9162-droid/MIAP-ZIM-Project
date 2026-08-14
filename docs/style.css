@@ -269,12 +269,12 @@ body {
 
 /* Hide all content */
 
-.tab-content-1,
-.tab-content-2,
-.tab-content-3,
-.tab-content-4 {
+	.tab-content-1,
+	.tab-content-2,
+	.tab-content-3,
+	.tab-content-4 {
 
-    display: none;
+    	display: none;
 }
 
 
