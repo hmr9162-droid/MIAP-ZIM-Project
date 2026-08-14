@@ -68,7 +68,7 @@ p:not(:last-child) {
     var(--border-raised-inner);
 }
 
-.tabl td {
+.table td {
   padding: 4px 8px;
   background: var(--surface);
 
