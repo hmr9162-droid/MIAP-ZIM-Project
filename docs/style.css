@@ -190,7 +190,7 @@ body {
 
 .tab-buttons label {
     min-width: 90px;
-    height: 25px;
+    height: 70px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -199,8 +199,6 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-	color: var(--text-color);
-	background: var(--button-face);
     font-family: "Pixelated MS Sans Serif", sans-serif;
     font-size: 14px;
     cursor: pointer;
