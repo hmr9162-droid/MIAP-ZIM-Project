@@ -1,5 +1,9 @@
 /* zim sum style.css */ 
 
+p:not(:last-child) {
+    margin-block-end: 1em;
+}
+
 /* DOOR OR ENTRY PAGE */ 
 
 .entry-background {
@@ -57,45 +61,130 @@
 
     } 
 
-/* body */
-
-	html, body { 
-  		margin: 0;
-  		padding: 0;
-	} 
-
-	}
-
-	body { 
-    	font-size: 1rem; 
-    	font-family: Helvetica;
-    	color: black; 
-    	padding: 30px; 
-    	box-sizing: border-box; 
-
-	}
-
-/* MAIN WEBSITE PAGE */
-
 /* body and widget formatting */ 
 
-	p:not(:last-child) {
-    	margin-block-end: 1em;
+.page-layout {
+    display: grid;
+    grid-template-columns: 150px minmax (0,1fr);
+    gap: 40px;
+    width: calc(100% - 200px);
+    max-width: 1200px;
+    margin: 100px 50px 4rem;
+    align-items: start;
+
+}
+
+html, body {
+    margin: 0;
+    min-height: 100%;
+    background-color: white;
+}
+
+body {
+    text-align: center;
+    font-size: 2rem;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, "Helvetica" Arial, sans-serif;
+    color: black;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.widget {
+    border: 1px solid #ccc;
+  	border-radius: 6px;
+  	box-shadow: 0 5px 12px rgba(0,0,0,0.15);
+  	font-family: sans-serif;
+  	max-width: 1200px;
+	margin: 0 auto;
+    display: flex;
+    padding: 75px;
+	}
+    
+/* title header and logo design */ 
+
+    .site-header { 
+        position: absolute; 
+        top: 10px; 
+        left: 15px; 
+        right: 15px; 
+        width: 98%; 
+        display: flex; 
+        justify-content: space-between; 
+        align-items: flex-start; 
+        margin: 2px; 
+		padding: 20px; 
+    } 
+
+    .site-header img { 
+        display: block; 
+        height: auto; 
+			
+    } 
+
+    .logo-left { 
+  	   max-width: 20vw;
+       height: auto;
+
+    } 
+
+    .logo-right { 
+  	   max-width: 20vw;
+       height: auto;
+    }
+
+/* footer with year */ 
+
+	.site-footer {
+		font-size: 0.5rem;
+		position: absolute; 
+        bottom: 10px; 
+        right: 15px; 
+	
 	}
 
-	.widget {
-    	width: 80vw;
-    	max-width: 600px;
-    	padding: 1rem;
-    	margin: 2rem auto;
-    	border-radius: 1rem;
-    	background-color: #fff;
-    	box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.025);
-	}
+/* tab design and controls */ 
 
-/* tab layout and design */ 
+.tabs {
+    margin-top: 175px;
+    display: grid;
+    grid-template-columns: 150px minmax(0, 1fr); 
+    column-gap: 40px; 
+    width: 100%;
+}
 
-	/* active tab */ 
+.tabs input[type="radio"] {
+    display: none;
+}
+
+.tab-buttons {
+    grid-column:1;
+    grid-row: 1;
+    display: flex; 
+    flex-direction: column;
+    width: 150px;
+
+}
+
+.tab-buttons label {
+    display: block;
+    width: 100px;
+    box-sizing: border-box;
+    padding: 3px 6px;
+    margin: 8px 0;
+    background-color: white;
+    color: black;
+    border: 1px solid #ddd;
+    border-radius: 150px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    text-align: center;
+}
+
+.tab-buttons label:hover { 
+    background-color: #f1f1f1; 
+}
+
+/* active tab */ 
     
     #tab1:checked ~ .tab-buttons label[for="tab1"], 
     #tab2:checked ~ .tab-buttons label[for="tab2"], 
