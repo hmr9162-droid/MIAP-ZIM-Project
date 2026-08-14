@@ -7,7 +7,8 @@ p:not(:last-child) {
 /* borrowed from https://github.com/jdan/98.css/blob/main/style.css */
 
 :root {
-  /* Color */
+
+/* Color */
   --text-color: #222222;
   --surface: #c0c0c0;
   --button-highlight: #ffffff;
@@ -20,6 +21,8 @@ p:not(:last-child) {
   --dialog-gray-light: #b5b5b5;
   --link-blue: #0000ff;
 
+/* Borders */
+
  --border-width: 1px;
 --border-raised-outer: inset -1px -1px var(--window-frame),
     inset 1px 1px var(--button-highlight);
@@ -30,6 +33,7 @@ p:not(:last-child) {
   --border-sunken-inner: inset -2px -2px var(--button-face),
     inset 2px 2px var(--button-shadow);
 
+}
 
 /* DOOR OR ENTRY PAGE */ 
 
@@ -51,7 +55,7 @@ p:not(:last-child) {
     var(--border-raised-inner);
 }
 
-th {
+.table th {
   padding: 4px 8px;
   background: var(--button-face);
 
@@ -60,7 +64,7 @@ th {
     var(--border-raised-inner);
 }
 
-td {
+.tabl td {
   padding: 4px 8px;
   background: var(--surface);
 
