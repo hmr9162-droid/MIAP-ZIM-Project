@@ -23,8 +23,8 @@ p:not(:last-child) {
 
 /* Borders */
 
- --border-width: 1px;
---border-raised-outer: inset -1px -1px var(--window-frame),
+  --border-width: 1px;
+  --border-raised-outer: inset -1px -1px var(--window-frame),
     inset 1px 1px var(--button-highlight);
   --border-raised-inner: inset -2px -2px var(--button-shadow),
     inset 2px 2px var(--button-face);
