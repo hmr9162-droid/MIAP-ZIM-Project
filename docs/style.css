@@ -133,7 +133,11 @@ body {
     align-items: center;
     padding: 2px 3px;
     box-sizing: border-box;
-    background: #000080;
+    background: linear-gradient(
+        to right,
+        #000080 0%,
+        #1084d0 100%
+    );
     color: white;
     font-family: "Pixelated MS Sans Serif", sans-serif;
     font-size: 30px;
