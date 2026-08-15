@@ -127,6 +127,8 @@ body {
 
 .widget-titlebar {
     height: 40px;
+	display: flex;
+	justify-content: space-between;
 	max-width: 1200px;
     align-items: center;
     padding: 2px 3px;
@@ -138,6 +140,7 @@ body {
     font-weight: bold;
 }
 
+
 /* Push controls to the far right */
 .window-controls {
     margin-left: auto;
@@ -147,8 +150,8 @@ body {
 }
 
 .window-controls button {
-    width: 40px;
-    height: 40px;
+    width: 28px;
+    height: 28px;
     padding: 0;
     display: in-line block;
     justify-content: center;
