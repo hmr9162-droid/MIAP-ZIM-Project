@@ -125,6 +125,8 @@ body {
         inset 2px 2px var(--button-face);
 }
 
+/* Windows-style buttons */
+
 .window-titlebar {
     height: 40px;
 	max-width: 1200px;
