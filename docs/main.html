@@ -9,47 +9,44 @@
 
 <body>
 
-<!-- hidden radio controls -->
-	
-<div class="tabs">
+<div class="widget">
 
+    <!-- window titlebar -->
+    <div class="widget-titlebar">
+
+        <span class="window-title">🥡</span>
+
+        <div class="window-header">
+            <div class="window-controls">
+                <button class="minimize" type="button">_</button>
+                <button class="maximize" type="button">□</button>
+                <button class="close" type="button">×</button>
+            </div>
+        </div>
+
+    </div>
+
+
+    <!-- TABS -->
+    <div class="tabs">
+
+        <!-- hidden radio controls -->
         <input type="radio" id="tab1" name="tabs" checked>
         <input type="radio" id="tab2" name="tabs">
         <input type="radio" id="tab3" name="tabs">
         <input type="radio" id="tab4" name="tabs">
 
 
-<!-- horizontal tab buttons -->
-
+        <!-- tab buttons -->
         <div class="tab-buttons">
-
             <label for="tab1">home</label>
             <label for="tab2">cook</label>
             <label for="tab3">book</label>
             <label for="tab4">about</label>
-
-        </div>
-			
-</div> 
-
-
-		<div class="widget">
-    	<div class="widget-titlebar">
-
-       		 <span class="window-title">🥡</span>
-
-        	<div class="window-header">
-            <div class="window-controls">
-                <button class="minimize" type="button">_</button>
-                <button class="maximize" type="button">□</button>
-                <button class="close" type="button">×</button>
-            
-			</div>
         </div>
 
 
-<!-- contents -->
-
+        <!-- TAB CONTENT -->
         <div class="tab-content">
 
             <div class="tab-content-1">
@@ -57,56 +54,57 @@
                 <p>Welcome to the zim sum homepage.</p>
             </div>
 
+
             <div class="tab-content-2">
                 <h3>cook</h3>
                 <p>Make a .zim.</p>
-				<video width="720" height="480" controls>
-  					<source src="movie.mp4" type="video/mp4">
-  					<source src="movie.ogg" type="video/ogg">
-  					Your browser does not support the video tag.
-				</video>
+
+                <video width="720" height="480" controls>
+                    <source src="movie.mp4" type="video/mp4">
+                    <source src="movie.ogg" type="video/ogg">
+                    Your browser does not support the video tag.
+                </video>
             </div>
+
 
             <div class="tab-content-3">
                 <h3>📖</h3>
 
-                <!-- add download buttons here! -->
+                <table>
 
-	            <table>
-	        
+                    <tr>
+                        <td>download name</td>
+                        <td>
+                            <button class="folder-btn">
+                                <i class="fa fa-download"></i>
+                                Download
+                            </button>
+                        </td>
+                    </tr>
 
-			    <!-- next download  -->
-					<tr> 
-					<td> download name </td>
-	                <td>
-                        <button class=".folder-btn"><i class="fa fa-download"></i> 	Download</button>
-	                </td>
-					</tr> 
-   				<!-- next download  -->
-					<tr> 
-					<td> download name </td>
-	                <td>
-                        <button class="folder-btn"><i class="fa fa-download"></i> 	Download</button>
-	                </td>
-					</tr> 
-				<!-- next download  -->
-					<tr> 
-					<td> download name </td>
-	                <td>
-                        <button class="folder-btn"><i class="fa fa-download"></i> 	Download</button>
-	                </td>
-					</tr> 
-				<!-- next download  -->
+                    <tr>
+                        <td>download name</td>
+                        <td>
+                            <button class="folder-btn">
+                                <i class="fa fa-download"></i>
+                                Download
+                            </button>
+                        </td>
+                    </tr>
 
+                    <tr>
+                        <td>download name</td>
+                        <td>
+                            <button class="folder-btn">
+                                <i class="fa fa-download"></i>
+                                Download
+                            </button>
+                        </td>
+                    </tr>
 
-
-						
-					</tr>
                 </table>
-    
-  
-                
             </div>
+
 
             <div class="tab-content-4">
                 <h3>about</h3>
@@ -115,7 +113,7 @@
 
         </div>
 
-     </div>
+    </div>
 
 </div>
 
