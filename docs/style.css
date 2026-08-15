@@ -178,11 +178,6 @@ body {
         inset -1px -1px var(--button-highlight);
 }
 
-/* close */
-
-.window-controls .close {
-    font-size: 30px;
-}
 
 /* tab design  */ 
 
