@@ -289,7 +289,7 @@ body {
 
 .download-grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(10, 1fr);
     gap: 20px;
     padding: 20px;
     width: 100%;
@@ -312,8 +312,8 @@ body {
 }
 
 .folder-image {
-    width: 50px;
-    height: 50px;
+    width: 20px;
+    height: 20px;
     object-fit: contain;
 }
 
