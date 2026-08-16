@@ -140,10 +140,14 @@ body {
     font-weight: bold;
 }
 
+.window-header {
+    margin-left: auto;
+)
+	
+
 /* Push controls to the far right */
 
 .window-controls {
-    margin-left: auto;
     display: flex;
     gap: 2px;
 }
