@@ -319,16 +319,16 @@ body {
 
 /* steady */
 .download-folder .folder-image {
-    content: url("folder_closed.png");
+    content: url("images/folder_closed.png");
 }
 
 /* hover */
 .download-folder:hover .folder-image {
-    content: url("folder_open.png");
+    content: url("images/folder_open.png");
 }
 
 /* click */
 .download-folder:active .folder-image {
-    content: url("folder_paper.png");
+    content: url("images/folder_paper.png");
 }
 
