@@ -138,16 +138,12 @@ body {
     font-family: "Pixelated MS Sans Serif", sans-serif;
     font-size: 30px;
     font-weight: bold;
-}
-
-.window-header {
-    margin-left: auto;
-)
-	
+}	
 
 /* Push controls to the far right */
 
 .window-controls {
+	margin-left: auto;
     display: flex;
     gap: 2px;
 }
