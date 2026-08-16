@@ -160,6 +160,7 @@ body {
     font-size: 9px;
     font-weight: bold;
     line-height: 10px;
+	z-index: 20;
 
 }
 
@@ -224,7 +225,7 @@ body {
 	.tab-buttons label:hover {
 }
 
-/* table content */
+/* tab content */
 
 #tab1:checked ~ .tab-buttons label[for="tab1"],
 #tab2:checked ~ .tab-buttons label[for="tab2"],
@@ -280,3 +281,7 @@ body {
     display: block;
 }
 
+/* scroll formatting for download table */
+
+	.table-scroll {
+		
